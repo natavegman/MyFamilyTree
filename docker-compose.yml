@@ -1,0 +1,10 @@
+version: "3"
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: genea
+      POSTGRES_PASSWORD: genea
+      POSTGRES_DB: genealogy
+    ports:
+      - "5432:5432"
