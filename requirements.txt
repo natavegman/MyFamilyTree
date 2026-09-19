@@ -4,3 +4,10 @@ sqlalchemy
 psycopg2-binary
 python-gedcom
 pydantic
+openai
+python-dotenv
+pillow
+opencv-python-headless
+numpy
+requests
+# Optional: pip install paddleocr paddlepaddle && METRIC_OCR_ENGINE=paddle

@@ -1,5 +1,8 @@
+from dotenv import load_dotenv
 from fastapi import FastAPI
 from sqlalchemy import text
+
+load_dotenv()
 
 from app.api.documents import router as documents_router
 from app.api.import_gedcom import router as import_router

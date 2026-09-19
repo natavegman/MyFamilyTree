@@ -1,7 +1,7 @@
 import uuid
 from datetime import datetime
 
-from sqlalchemy import Column, DateTime, String
+from sqlalchemy import Column, DateTime, String, Text
 
 from app.database import Base
 
@@ -22,4 +22,5 @@ class Document(Base):
     file_name = Column(String, nullable=False)
     file_path = Column(String, nullable=False)
     file_hash = Column(String, nullable=False, unique=True, index=True)
+    ocr_text = Column(Text, nullable=True)
     created_at = Column(DateTime, nullable=False, default=datetime.utcnow)
