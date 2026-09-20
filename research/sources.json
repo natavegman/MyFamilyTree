@@ -335,7 +335,8 @@
       "title": "СОР Ларионов Лев.pdf",
       "type": "pdf",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "сверено с карточками Notion, расхождений нет"
     },
     {
       "id": "1zDBgFEJ0_vmatbhA_Fxi1WCfPNGYj3t1",
@@ -343,7 +344,8 @@
       "title": "СОС Ларионов Лев.pdf",
       "type": "pdf",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "сверено с карточками Notion, расхождений нет"
     },
     {
       "id": "1WpBWevKqXjQNwoeiAGScL7tewMZDspti",
@@ -407,7 +409,8 @@
       "title": "site1455832432-tree1-20260201_signed.ged",
       "type": "gedcom",
       "priority": 1,
-      "status": "pending"
+      "status": "skip",
+      "note": "актуальная версия дерева ведётся в Notion"
     },
     {
       "id": "1N2UwN7-wfiTRsx49dYAOs10L3-i_x41L",
