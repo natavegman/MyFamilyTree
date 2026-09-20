@@ -361,7 +361,8 @@
       "title": "Резюме Gemini по поиску Анастасии Экономовой",
       "type": "gdoc",
       "priority": 3,
-      "status": "pending"
+      "status": "done",
+      "note": "производный документ Gemini; в части родителей устарел"
     },
     {
       "id": "1GwROjpymy6HAsBMld7cMK0V4L9M_QnNJ",
