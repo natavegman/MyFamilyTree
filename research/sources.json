@@ -146,7 +146,7 @@
       "title": "DSC07415_6ноя1878_РождениеМатронаПрохорова.jpg",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "1_sD2YJiFbQWX1OVQ7gQ02x0QxaaANPOu",
@@ -154,15 +154,16 @@
       "title": "DSC07421_6ноя1878_РождениеМатронаПрохорова.jpg",
       "type": "image",
       "priority": 3,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "1JznsAc1C_cQPD_fahspekOWpHNmx3unh",
       "folder": "Блиновы-Вегман",
       "title": "DSC07422_6ноя1878_РождениеМатронаПрохорова.jpg",
       "type": "image",
-      "priority": 3,
-      "status": "pending"
+      "priority": 2,
+      "status": "pending",
+      "note": "проверить шапку листа: месяц и год записи о рождении Матрёны"
     },
     {
       "id": "1SjfJG9CiC_0DETEJp8NnFK_PaNfw1Rq9",
