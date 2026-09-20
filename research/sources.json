@@ -170,7 +170,8 @@
       "title": "ЦГИАСПб 19_127_2543_0186 Рождение1911 БлиноваНФ",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка МК ЦГИА ф.19 оп.127 (BATCH-003)"
     },
     {
       "id": "1JW2fvM4mR01D8BZzqnxJvS0_WltItiOM",
@@ -178,7 +179,7 @@
       "title": "ЦГИАСПб 19_127_2677_0202 Смерть1912 БлиновФедор",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "1u_86peJPz-vrXGvycHIIgn_WmPT_C3et",
@@ -186,7 +187,8 @@
       "title": "ЦГИАСПб 19_127_2412_0059 Рождение1910 Евдокия",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка МК ЦГИА ф.19 оп.127 (BATCH-003)"
     },
     {
       "id": "1D7Azn_MBZDMIWTsIlWmBy9unJ_-9qcwt",
@@ -194,7 +196,8 @@
       "title": "ЦГИАСПб 19_127_2444_0623 Смерть1910 Евдокия",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка МК ЦГИА ф.19 оп.127 (BATCH-003)"
     },
     {
       "id": "1Zjxx5koQ3Nc22ihZAXZX1G9ui0BfU1te",
@@ -202,7 +205,8 @@
       "title": "ЦГИАСПб 19_127_2735_0236 Рождение1912 Федор",
       "type": "image",
       "priority": 2,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка МК ЦГИА ф.19 оп.127 (BATCH-003)"
     },
     {
       "id": "1Fmh9khKDK4KBbXsMCff-HZaahzR_9ADZ",
@@ -210,7 +214,8 @@
       "title": "ЦГИАСПб 19_127_2543_0626",
       "type": "image",
       "priority": 3,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка МК ЦГИА ф.19 оп.127 (BATCH-003)"
     },
     {
       "id": "1o8s61LvCjytoCcdwrctcqbMFPe1HsVlg",
