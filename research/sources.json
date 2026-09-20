@@ -280,7 +280,8 @@
       "title": "07-13- Б-119.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1c7SxUmbfWAsYTv4UZbPIdS-nchEjSM1q",
@@ -288,7 +289,8 @@
       "title": "№ИСХ-5514_ОКТ НДА от 20.12.2022.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1HRtXGHxvmIV9UY4Dx_uNqw3JhzKur-oc",
@@ -296,7 +298,8 @@
       "title": "10161п.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1BfxatPWr1DDnvAN6Cei_YviPD248yAvq",
@@ -304,7 +307,8 @@
       "title": "Image_00440.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1WSu9w55wDXxThduTFympKs7L1xO4jwTw",
@@ -312,7 +316,8 @@
       "title": "9.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1wXR_ekqETAfDFY0mbTfmyXOtV7Ul2fMd",
@@ -320,7 +325,8 @@
       "title": "9251 в 23.pdf",
       "type": "pdf",
       "priority": 4,
-      "status": "pending"
+      "status": "done",
+      "note": "разобран в Notion, карточка «Архивная переписка по Блиновым-Вегман, 2021–2022»"
     },
     {
       "id": "1HIXbH67cwYg-SQGvvZjcYxfZws2obmVo",
@@ -371,7 +377,8 @@
       "title": "Прием В Члены КПСС Ларионов Лев.pdf",
       "type": "pdf",
       "priority": 3,
-      "status": "pending"
+      "status": "skip",
+      "note": "167 МБ, текстового слоя нет; download из окружения не проходит — нужен разбор с компьютера"
     },
     {
       "id": "1yW3pMpRb7tlGqTIhU4vkTprKLbbzhXOTI7tc9jt1MjU",
