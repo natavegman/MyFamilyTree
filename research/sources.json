@@ -9,59 +9,409 @@
     "Гуськовы": "1a9HJErGi5L5d5k8RNs7YM_Zaj4ZoaoNY"
   },
   "sources": [
-    {"id": "1HcWBBHDhkvfx1WblEiJo3ZNVzgGQBiIc", "folder": "Юрчиковы", "title": "справка о рождении Юрчиков ВМ.jpg", "type": "image", "priority": 1, "status": "pending"},
-    {"id": "1zyxhmXCYTwHTy2uT-UE3NzzPgNbx6qlRMmdiWe7cPqs", "folder": "Юрчиковы", "title": "Ф.4 Оп.3 Д.1045 Подворные карточки д. Сухановка Орловской вол. Богородицкого у. 1910-1912", "type": "gdoc", "priority": 2, "status": "pending"},
-    {"id": "1YumZjQlr_jYBtVRs-FNcvUqoF1BsYLBIszI7CTKm8mg", "folder": "Юрчиковы", "title": "Резюме по найденным подворным карточкам и данным переписи в ГАТО", "type": "gdoc", "priority": 2, "status": "pending"},
-    {"id": "1kQ_6292JhUW7bung3sZbafMFXYkjuaQ59tuCFkKH4Ew", "folder": "Юрчиковы", "title": "Ф.Р-3976 Оп.1 Д.24 Переписка ГАТО о фактах репрессий Ш-Я", "type": "gdoc", "priority": 3, "status": "pending"},
-    {"id": "1uDQ2-jcHVU9rZqoKWORBFG2ZfIrZeP0u87GWtKyg4rQ", "folder": "Юрчиковы", "title": "gato перепись населения Гармонная, д. 46", "type": "gdoc", "priority": 3, "status": "pending"},
-    {"id": "1Vj2aZj0ixaisp1zv-oCrxZenMBqetquNmGrpLsX7wow", "folder": "Юрчиковы", "title": "Yurchikov Family Genealogy Research Plan and Archival Templates", "type": "gdoc", "priority": 4, "status": "pending"},
-    {"id": "1GyefE0iFyqeQhre-gUhzLrEqyBykwG1UkMoua4kXuyI", "folder": "Юрчиковы", "title": "Тула (Фонды ImageViewer)-familysearch (2)", "type": "gsheet", "priority": 4, "status": "pending"},
-    {"id": "12Ct4yhq7LeaTYpwWJ27qMJsyBCoYi0LY", "folder": "Юрчиковы", "title": "№ 644 24.02.2026 Рослякова.docx", "type": "docx", "priority": 3, "status": "pending"},
-    {"id": "17VxsMDg9uts_goXzfQ6Av8JouUVNHh40", "folder": "Юрчиковы", "title": "tla1472_001_0000003_00003_t.jpg", "type": "image", "priority": 3, "status": "pending"},
-    {"id": "16Q6dMExEUvZyCg6qmJxv7jA1OARe0R43", "folder": "Юрчиковы", "title": "tla1472_001_0000003_00047_t.jpg", "type": "image", "priority": 3, "status": "pending"},
-    {"id": "1cFG2tYF_NbwzxQhV-oQM65tWzEF3ukQs", "folder": "Юрчиковы", "title": "image (1).jpg", "type": "image", "priority": 4, "status": "pending"},
-    {"id": "1d9RlIsw5BokBrklboxNJp4MAoYhCgnTB", "folder": "Юрчиковы", "title": "IMG_2890.JPG", "type": "image", "priority": 4, "status": "pending"},
-
-    {"id": "1mAEPF8bQe7tgtnGMzwZ_rXSE_X1EFSKi", "folder": "Блиновы-Вегман", "title": "Блиновы_Вегман.docx", "type": "docx", "priority": 1, "status": "pending"},
-    {"id": "1W2t9gxQzSE2_NhANggVL63Fz0I3HS3dZ", "folder": "Блиновы-Вегман", "title": "IMG_3739_брак БлиновФИ+МатронаПрохорова.JPG", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1sEGB49o4JKpDTDKIwX6Wt_gtgLm_3nrG", "folder": "Блиновы-Вегман", "title": "IMG_3732_брак БлиновФИ+МатронаПрохорова.JPG", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1HmKrftMgv0V-regkWH1nCpboUVrkATxs", "folder": "Блиновы-Вегман", "title": "DSC07415_6ноя1878_РождениеМатронаПрохорова.jpg", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1_sD2YJiFbQWX1OVQ7gQ02x0QxaaANPOu", "folder": "Блиновы-Вегман", "title": "DSC07421_6ноя1878_РождениеМатронаПрохорова.jpg", "type": "image", "priority": 3, "status": "pending"},
-    {"id": "1JznsAc1C_cQPD_fahspekOWpHNmx3unh", "folder": "Блиновы-Вегман", "title": "DSC07422_6ноя1878_РождениеМатронаПрохорова.jpg", "type": "image", "priority": 3, "status": "pending"},
-    {"id": "1SjfJG9CiC_0DETEJp8NnFK_PaNfw1Rq9", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2543_0186 Рождение1911 БлиноваНФ", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1JW2fvM4mR01D8BZzqnxJvS0_WltItiOM", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2677_0202 Смерть1912 БлиновФедор", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1u_86peJPz-vrXGvycHIIgn_WmPT_C3et", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2412_0059 Рождение1910 Евдокия", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1D7Azn_MBZDMIWTsIlWmBy9unJ_-9qcwt", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2444_0623 Смерть1910 Евдокия", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1Zjxx5koQ3Nc22ihZAXZX1G9ui0BfU1te", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2735_0236 Рождение1912 Федор", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1Fmh9khKDK4KBbXsMCff-HZaahzR_9ADZ", "folder": "Блиновы-Вегман", "title": "ЦГИАСПб 19_127_2543_0626", "type": "image", "priority": 3, "status": "pending"},
-    {"id": "1o8s61LvCjytoCcdwrctcqbMFPe1HsVlg", "folder": "Блиновы-Вегман", "title": "Св-во о Рождении бабушки Вегман ГА.pdf", "type": "pdf", "priority": 2, "status": "pending"},
-    {"id": "1E6kHnHcyIVHrJy964hB7RtZzdRmPWWp_", "folder": "Блиновы-Вегман", "title": "Дело. ЛГПИ Вегман Галина Ароновна.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "10oRjetAh0OWvEGLFP_xIZqjuWR4_yPtc", "folder": "Блиновы-Вегман", "title": "Дело 844523_ВегманАрон.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "1bwELuIEmHs1uG8flleHbpWJGKAfqka1i", "folder": "Блиновы-Вегман", "title": "Дело 844523а_ВегманАрон.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "1_1k50vvOux77zUh3z1HXrZNXsmQzQGKZ", "folder": "Блиновы-Вегман", "title": "Дело 836338.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "1pBkPs83-TFI0anG8PSVhHwci4UH1vq86", "folder": "Блиновы-Вегман", "title": "Трудовая книжка_ВегманНФ.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "1uk8eOhytkUc1RfjMjh4U9rNwavH6AIYj", "folder": "Блиновы-Вегман", "title": "Фото 10 Июня 1931 Сестры Плаксина Тихона.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1Az-4xMdzSBqlJ18vzOmmru6eUH17GNZ0", "folder": "Блиновы-Вегман", "title": "07-13- Б-119.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1c7SxUmbfWAsYTv4UZbPIdS-nchEjSM1q", "folder": "Блиновы-Вегман", "title": "№ИСХ-5514_ОКТ НДА от 20.12.2022.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1HRtXGHxvmIV9UY4Dx_uNqw3JhzKur-oc", "folder": "Блиновы-Вегман", "title": "10161п.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1BfxatPWr1DDnvAN6Cei_YviPD248yAvq", "folder": "Блиновы-Вегман", "title": "Image_00440.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1WSu9w55wDXxThduTFympKs7L1xO4jwTw", "folder": "Блиновы-Вегман", "title": "9.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-    {"id": "1wXR_ekqETAfDFY0mbTfmyXOtV7Ul2fMd", "folder": "Блиновы-Вегман", "title": "9251 в 23.pdf", "type": "pdf", "priority": 4, "status": "pending"},
-
-    {"id": "1HIXbH67cwYg-SQGvvZjcYxfZws2obmVo", "folder": "Ларионовы-Экономовы", "title": "Экономовы_Ларионовы.docx", "type": "docx", "priority": 1, "status": "pending"},
-    {"id": "1Fat5E8KZ0t84_v87YKS0Q-uaZgHwmh09", "folder": "Ларионовы-Экономовы", "title": "СОР Ларионов Лев.pdf", "type": "pdf", "priority": 2, "status": "pending"},
-    {"id": "1zDBgFEJ0_vmatbhA_Fxi1WCfPNGYj3t1", "folder": "Ларионовы-Экономовы", "title": "СОС Ларионов Лев.pdf", "type": "pdf", "priority": 2, "status": "pending"},
-    {"id": "1WpBWevKqXjQNwoeiAGScL7tewMZDspti", "folder": "Ларионовы-Экономовы", "title": "ЦГА РМ, ф.65 оп.1 д.19 л.2об-3.jpg", "type": "image", "priority": 2, "status": "pending"},
-    {"id": "1-zBFCq2skLEETZt76ICaBuRNuvwcj-Z0vqtZ2Q8-0gA", "folder": "Ларионовы-Экономовы", "title": "Резюме Gemini по поиску Анастасии Экономовой", "type": "gdoc", "priority": 3, "status": "pending"},
-    {"id": "1GwROjpymy6HAsBMld7cMK0V4L9M_QnNJ", "folder": "Ларионовы-Экономовы", "title": "Прием В Члены КПСС Ларионов Лев.pdf", "type": "pdf", "priority": 3, "status": "pending"},
-    {"id": "1yW3pMpRb7tlGqTIhU4vkTprKLbbzhXOTI7tc9jt1MjU", "folder": "Ларионовы-Экономовы", "title": "Gemini Запрос в ГАПО уточненный", "type": "gdoc", "priority": 4, "status": "pending"},
-    {"id": "1lc-_w8v-PTFocRkA_sO93CC-s4dQmOtKfy7vH0377Wk", "folder": "Ларионовы-Экономовы", "title": "Запрос в ГАПО Gemini", "type": "gdoc", "priority": 4, "status": "pending"},
-    {"id": "1IC7rQFGpzHvieE2iuSS-oyUKCj685C31", "folder": "Ларионовы-Экономовы", "title": "Запрос Окт2023 по Экономовым, Пенза.docx", "type": "docx", "priority": 4, "status": "pending"},
-
-    {"id": "1VNHL_KAW7C7FFx_OoXAW7pqBQ9bLWo1v", "folder": "Гуськовы", "title": "Отсканированные документы.pdf", "type": "pdf", "priority": 2, "status": "pending"},
-
-    {"id": "1hr9narqPN0LVKkJK5mbJPehsWu2Nf88B", "folder": "root", "title": "site1455832432-tree1-20260201_signed.ged", "type": "gedcom", "priority": 1, "status": "pending"},
-    {"id": "1N2UwN7-wfiTRsx49dYAOs10L3-i_x41L", "folder": "root", "title": "Поиск в ЕГР Рослякова Наталья.xlsx", "type": "xlsx", "priority": 3, "status": "pending"}
+    {
+      "id": "1HcWBBHDhkvfx1WblEiJo3ZNVzgGQBiIc",
+      "folder": "Юрчиковы",
+      "title": "справка о рождении Юрчиков ВМ.jpg",
+      "type": "image",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "id": "1zyxhmXCYTwHTy2uT-UE3NzzPgNbx6qlRMmdiWe7cPqs",
+      "folder": "Юрчиковы",
+      "title": "Ф.4 Оп.3 Д.1045 Подворные карточки д. Сухановка Орловской вол. Богородицкого у. 1910-1912",
+      "type": "gdoc",
+      "priority": 2,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1YumZjQlr_jYBtVRs-FNcvUqoF1BsYLBIszI7CTKm8mg",
+      "folder": "Юрчиковы",
+      "title": "Резюме по найденным подворным карточкам и данным переписи в ГАТО",
+      "type": "gdoc",
+      "priority": 2,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1kQ_6292JhUW7bung3sZbafMFXYkjuaQ59tuCFkKH4Ew",
+      "folder": "Юрчиковы",
+      "title": "Ф.Р-3976 Оп.1 Д.24 Переписка ГАТО о фактах репрессий Ш-Я",
+      "type": "gdoc",
+      "priority": 3,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1uDQ2-jcHVU9rZqoKWORBFG2ZfIrZeP0u87GWtKyg4rQ",
+      "folder": "Юрчиковы",
+      "title": "gato перепись населения Гармонная, д. 46",
+      "type": "gdoc",
+      "priority": 3,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1Vj2aZj0ixaisp1zv-oCrxZenMBqetquNmGrpLsX7wow",
+      "folder": "Юрчиковы",
+      "title": "Yurchikov Family Genealogy Research Plan and Archival Templates",
+      "type": "gdoc",
+      "priority": 4,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1GyefE0iFyqeQhre-gUhzLrEqyBykwG1UkMoua4kXuyI",
+      "folder": "Юрчиковы",
+      "title": "Тула (Фонды ImageViewer)-familysearch (2)",
+      "type": "gsheet",
+      "priority": 4,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "12Ct4yhq7LeaTYpwWJ27qMJsyBCoYi0LY",
+      "folder": "Юрчиковы",
+      "title": "№ 644 24.02.2026 Рослякова.docx",
+      "type": "docx",
+      "priority": 3,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "17VxsMDg9uts_goXzfQ6Av8JouUVNHh40",
+      "folder": "Юрчиковы",
+      "title": "tla1472_001_0000003_00003_t.jpg",
+      "type": "image",
+      "priority": 3,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "16Q6dMExEUvZyCg6qmJxv7jA1OARe0R43",
+      "folder": "Юрчиковы",
+      "title": "tla1472_001_0000003_00047_t.jpg",
+      "type": "image",
+      "priority": 3,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1cFG2tYF_NbwzxQhV-oQM65tWzEF3ukQs",
+      "folder": "Юрчиковы",
+      "title": "image (1).jpg",
+      "type": "image",
+      "priority": 4,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1d9RlIsw5BokBrklboxNJp4MAoYhCgnTB",
+      "folder": "Юрчиковы",
+      "title": "IMG_2890.JPG",
+      "type": "image",
+      "priority": 4,
+      "status": "done",
+      "note": "закрыто в предыдущей сессии"
+    },
+    {
+      "id": "1mAEPF8bQe7tgtnGMzwZ_rXSE_X1EFSKi",
+      "folder": "Блиновы-Вегман",
+      "title": "Блиновы_Вегман.docx",
+      "type": "docx",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "id": "1W2t9gxQzSE2_NhANggVL63Fz0I3HS3dZ",
+      "folder": "Блиновы-Вегман",
+      "title": "IMG_3739_брак БлиновФИ+МатронаПрохорова.JPG",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1sEGB49o4JKpDTDKIwX6Wt_gtgLm_3nrG",
+      "folder": "Блиновы-Вегман",
+      "title": "IMG_3732_брак БлиновФИ+МатронаПрохорова.JPG",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1HmKrftMgv0V-regkWH1nCpboUVrkATxs",
+      "folder": "Блиновы-Вегман",
+      "title": "DSC07415_6ноя1878_РождениеМатронаПрохорова.jpg",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1_sD2YJiFbQWX1OVQ7gQ02x0QxaaANPOu",
+      "folder": "Блиновы-Вегман",
+      "title": "DSC07421_6ноя1878_РождениеМатронаПрохорова.jpg",
+      "type": "image",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1JznsAc1C_cQPD_fahspekOWpHNmx3unh",
+      "folder": "Блиновы-Вегман",
+      "title": "DSC07422_6ноя1878_РождениеМатронаПрохорова.jpg",
+      "type": "image",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1SjfJG9CiC_0DETEJp8NnFK_PaNfw1Rq9",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2543_0186 Рождение1911 БлиноваНФ",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1JW2fvM4mR01D8BZzqnxJvS0_WltItiOM",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2677_0202 Смерть1912 БлиновФедор",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1u_86peJPz-vrXGvycHIIgn_WmPT_C3et",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2412_0059 Рождение1910 Евдокия",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1D7Azn_MBZDMIWTsIlWmBy9unJ_-9qcwt",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2444_0623 Смерть1910 Евдокия",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1Zjxx5koQ3Nc22ihZAXZX1G9ui0BfU1te",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2735_0236 Рождение1912 Федор",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1Fmh9khKDK4KBbXsMCff-HZaahzR_9ADZ",
+      "folder": "Блиновы-Вегман",
+      "title": "ЦГИАСПб 19_127_2543_0626",
+      "type": "image",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1o8s61LvCjytoCcdwrctcqbMFPe1HsVlg",
+      "folder": "Блиновы-Вегман",
+      "title": "Св-во о Рождении бабушки Вегман ГА.pdf",
+      "type": "pdf",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "id": "1E6kHnHcyIVHrJy964hB7RtZzdRmPWWp_",
+      "folder": "Блиновы-Вегман",
+      "title": "Дело. ЛГПИ Вегман Галина Ароновна.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "10oRjetAh0OWvEGLFP_xIZqjuWR4_yPtc",
+      "folder": "Блиновы-Вегман",
+      "title": "Дело 844523_ВегманАрон.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1bwELuIEmHs1uG8flleHbpWJGKAfqka1i",
+      "folder": "Блиновы-Вегман",
+      "title": "Дело 844523а_ВегманАрон.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1_1k50vvOux77zUh3z1HXrZNXsmQzQGKZ",
+      "folder": "Блиновы-Вегман",
+      "title": "Дело 836338.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1pBkPs83-TFI0anG8PSVhHwci4UH1vq86",
+      "folder": "Блиновы-Вегман",
+      "title": "Трудовая книжка_ВегманНФ.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1uk8eOhytkUc1RfjMjh4U9rNwavH6AIYj",
+      "folder": "Блиновы-Вегман",
+      "title": "Фото 10 Июня 1931 Сестры Плаксина Тихона.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1Az-4xMdzSBqlJ18vzOmmru6eUH17GNZ0",
+      "folder": "Блиновы-Вегман",
+      "title": "07-13- Б-119.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1c7SxUmbfWAsYTv4UZbPIdS-nchEjSM1q",
+      "folder": "Блиновы-Вегман",
+      "title": "№ИСХ-5514_ОКТ НДА от 20.12.2022.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1HRtXGHxvmIV9UY4Dx_uNqw3JhzKur-oc",
+      "folder": "Блиновы-Вегман",
+      "title": "10161п.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1BfxatPWr1DDnvAN6Cei_YviPD248yAvq",
+      "folder": "Блиновы-Вегман",
+      "title": "Image_00440.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1WSu9w55wDXxThduTFympKs7L1xO4jwTw",
+      "folder": "Блиновы-Вегман",
+      "title": "9.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1wXR_ekqETAfDFY0mbTfmyXOtV7Ul2fMd",
+      "folder": "Блиновы-Вегман",
+      "title": "9251 в 23.pdf",
+      "type": "pdf",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1HIXbH67cwYg-SQGvvZjcYxfZws2obmVo",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Экономовы_Ларионовы.docx",
+      "type": "docx",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "id": "1Fat5E8KZ0t84_v87YKS0Q-uaZgHwmh09",
+      "folder": "Ларионовы-Экономовы",
+      "title": "СОР Ларионов Лев.pdf",
+      "type": "pdf",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1zDBgFEJ0_vmatbhA_Fxi1WCfPNGYj3t1",
+      "folder": "Ларионовы-Экономовы",
+      "title": "СОС Ларионов Лев.pdf",
+      "type": "pdf",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1WpBWevKqXjQNwoeiAGScL7tewMZDspti",
+      "folder": "Ларионовы-Экономовы",
+      "title": "ЦГА РМ, ф.65 оп.1 д.19 л.2об-3.jpg",
+      "type": "image",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "id": "1-zBFCq2skLEETZt76ICaBuRNuvwcj-Z0vqtZ2Q8-0gA",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Резюме Gemini по поиску Анастасии Экономовой",
+      "type": "gdoc",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1GwROjpymy6HAsBMld7cMK0V4L9M_QnNJ",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Прием В Члены КПСС Ларионов Лев.pdf",
+      "type": "pdf",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "id": "1yW3pMpRb7tlGqTIhU4vkTprKLbbzhXOTI7tc9jt1MjU",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Gemini Запрос в ГАПО уточненный",
+      "type": "gdoc",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1lc-_w8v-PTFocRkA_sO93CC-s4dQmOtKfy7vH0377Wk",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Запрос в ГАПО Gemini",
+      "type": "gdoc",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1IC7rQFGpzHvieE2iuSS-oyUKCj685C31",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Запрос Окт2023 по Экономовым, Пенза.docx",
+      "type": "docx",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "id": "1VNHL_KAW7C7FFx_OoXAW7pqBQ9bLWo1v",
+      "folder": "Гуськовы",
+      "title": "Отсканированные документы.pdf",
+      "type": "pdf",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "id": "1hr9narqPN0LVKkJK5mbJPehsWu2Nf88B",
+      "folder": "root",
+      "title": "site1455832432-tree1-20260201_signed.ged",
+      "type": "gedcom",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "id": "1N2UwN7-wfiTRsx49dYAOs10L3-i_x41L",
+      "folder": "root",
+      "title": "Поиск в ЕГР Рослякова Наталья.xlsx",
+      "type": "xlsx",
+      "priority": 3,
+      "status": "pending"
+    }
   ],
   "eml_note": "В корне папки ~45 писем .eml (переписка с архивами: ЦГИА СПб, ГАТО, ГАПО, РГПУ им. Герцена, МВД, РЖД). Обрабатываются отдельной очередью, см. INVENTORY.md.",
   "junk_note": "Файлы *.html размером 406-672 байта — битые ярлыки Chrome, генеалогической информации не содержат. Помечены skip."
