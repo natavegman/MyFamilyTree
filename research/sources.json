@@ -433,8 +433,531 @@
       "priority": 3,
       "status": "done",
       "note": "разобран: 5 актовых записей ЕГР. Блинова А.Ф. — брак с Плаксиным 22.09.1922, развод № 475 от 07.09.1932, брак с Ваккером № 266 от 03.02.1951, смерть № 634 от 27.03.1968. Экономова А.С. — брак № 935 от 11.10.1928, развод № 1163 от 02.03.1930. Итоги в blinovy-vegman.md и larionovy-ekonomovy.md"
+    },
+    {
+      "id": "1Z3kHmxsqZUU2niRKQLs3YfXcXL7ujzdX",
+      "folder": "root",
+      "title": "Поиск БЛИНОВЫ д.Попадьино.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "done",
+      "note": "разобран: переписка с исследователем ГАРО 28.12.2022–16.02.2023. Приход Троицкое (Поподьино) = с. Захаровка, ныне Елино, Ф.627 Оп.246. Рождения Анны Фёдоровны нет в МК за 1905, 1906 и 1907. Ф.398 (волостное правление) — 13 дел, подворных описей нет, направление закрыто. Отчество Фёдора получено из записи, где он поручитель как брат жениха. Итоги в blinovy-vegman.md"
+    },
+    {
+      "id": "1NNthUoAoArsQZCYB7by30OmKJtBGb4Gj",
+      "folder": "root",
+      "title": "Гуськовы из Пронского.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1lcXMKRpELHZmSiGSE6utdMuyo4mjDIlc",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Fwd: архивная справка.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1QdT9WF51JMpg0QMAfgxDMJ2QtIAlm24a",
+      "folder": "Ларионовы-Экономовы",
+      "title": "10 ревизия_Марьевка. Заварицкий и Калинина.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1b9phhInr2n1FlTjj299o9Bk_TUfz_v5B",
+      "folder": "Ларионовы-Экономовы",
+      "title": "10-я ревизия Борх, Марьевка.zip, Экономовы. Схема 23.11.2024.jpg.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1KKlaofMCn98CXfV7zq-mFwkV5RZTfbwl",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Похоже, потомок Константина живёт в Пензе.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1rhvGX7TtYtK_JqqfxAv0ZT72m2Sf3tW9",
+      "folder": "Ларионовы-Экономовы",
+      "title": "на поиск документов генеалогического характера Экономова Анастасия Сергеевна.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1QVWL6Rv4id0TPHbwWvmhx2pvWXL-cNGF",
+      "folder": "Блиновы-Вегман",
+      "title": "Голубь Израиль Моисеевич.zip.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1ok-yp37bGWUZX5V2L0eMTccj0BQtDvhk",
+      "folder": "root",
+      "title": "ЦГИА СПб.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1sfFpNyjaT43JvrBhkd4iS5Rs4SHdEchu",
+      "folder": "Блиновы-Вегман",
+      "title": "Ответ на запрос в РГПУ им. А.И. Герцена.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1oR3S1IgdzkXTBB5Vwr9yOEONxmv17-OQ",
+      "folder": "Блиновы-Вегман",
+      "title": "Отделение СФР по Мурманской области, письмо 51-02/2463л от 13.03.2023.eml",
+      "type": "eml",
+      "priority": 1,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1hpkrpAHQUEyCKZFq6Aay2aRvLE-ombKL",
+      "folder": "root",
+      "title": "01-53-1183_22-0-2.PDF.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1rMVW7FvhMlpneoFvIe02sXrf8cWduvxQ",
+      "folder": "root",
+      "title": "RE: 10027/Т.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1NdllKKzXUdszlcLntn7XGa3fVBKPQWSl",
+      "folder": "root",
+      "title": "RE: 10027/Т.eml (второй экземпляр)",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "10KzXbq0dODXg3ScHd9Yg7zCK-fZOPO6T",
+      "folder": "root",
+      "title": "163.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1Dctu8ygra5IOUVvXu_8fVOzM-fCXKTHl",
+      "folder": "root",
+      "title": "3528.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1D2o4rifJ9ezFBD9mvETqKycZ7rEgeqhC",
+      "folder": "root",
+      "title": "3528.eml (второй экземпляр)",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1ZS7Sk2wAtCrxrlRSjpeKsX61h9EUG9R_",
+      "folder": "root",
+      "title": "RE: 3528.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1yIgLaZcag_RWFFO3-DWKyHkMD0CbHpOH",
+      "folder": "root",
+      "title": "5049.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1m68_5tLPBJN3yVGAf7utNUrqfR2eiGxX",
+      "folder": "root",
+      "title": "1367.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1FNzPkaqjvogWDFjPLXLb5hqG0T6BJWKL",
+      "folder": "root",
+      "title": "ОГ-34688/23.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "17PvtLBo0mLF7z9vzJXcEmiaWCp-DYCgF",
+      "folder": "root",
+      "title": "2-ОГ-20342/23.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1XFpINbmomoyvwhzmIF1dCpAlVVk7UKXd",
+      "folder": "root",
+      "title": "2-ОГ-34412/23.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "15CVXc6pZmsriMJmc5hd7RevlWf6thBjs",
+      "folder": "root",
+      "title": "78-00-05/21-10085-2023 от 03.03.2023.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1WeCvgZ6ThX-L4UQErD2nwFBCSwlcOjpF",
+      "folder": "root",
+      "title": "78-00-05/21-28880-2023 от 06.06.2023.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "100-FLSOSWLy9mb0JvWJKh9VrUlHvF1pu",
+      "folder": "root",
+      "title": "На ваше обращение получен ответ.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1arLRUA5FiuLmBRwx4glT4lS8e5IE-Cez",
+      "folder": "root",
+      "title": "Ответ на обращение.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1-ipzPF8fPp2jJ3iG8WYl8hawsgCdakjH",
+      "folder": "root",
+      "title": "Информационное сообщение.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1BH_EXNKrqZe2j8lPU-dLnV4VtN0D4Gkb",
+      "folder": "root",
+      "title": "Информационное письмо.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1K3CxYKMPjRAdV0kH08P0YAzoph2_w3eN",
+      "folder": "root",
+      "title": "(no subject).eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1iRs8WCCkaNYNqm0Aa2pCVBe0MEstPNBZ",
+      "folder": "root",
+      "title": "Fwd: (без темы).eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "15XEG2wXyjqQmhS19y_WuLN0Qe7RiwtXy",
+      "folder": "root",
+      "title": "Вопрос.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1Yhvzgk0VtcjG3gzf2IUl75--SjOe8iVw",
+      "folder": "Ларионовы-Экономовы",
+      "title": "118.zip.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1TUfXojkVarUyFiES9daTRa4L7XXeS7hV",
+      "folder": "Ларионовы-Экономовы",
+      "title": "Экономовы.jpg.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "10-qFuwpNuqnDgMakzefh1Ft30qnQUew8",
+      "folder": "root",
+      "title": "1730444704077.jpg и ещё 3 файла.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1XNCnog3dGkpPeO6mypue6q7tSonQPKpd",
+      "folder": "root",
+      "title": "Fwd: Re: [Zgarm] Contact — кто-то заполнил форму.eml",
+      "type": "eml",
+      "priority": 2,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1wKFS0CUb4Ug-ric2ZU4WpUjrGCDkwSy0",
+      "folder": "root",
+      "title": "Комитет по энергетике и инженерному обеспечению направляет документ.eml",
+      "type": "eml",
+      "priority": 3,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1qmNqr6_lMVrUMbcS0Znehh2zLRtquauJ",
+      "folder": "root",
+      "title": "Комитет по энергетике и инженерному обеспечению направляет документ.eml (второй экземпляр)",
+      "type": "eml",
+      "priority": 3,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1EtUhl-vFk4qH8rjPopcWd1qx5UEk9TmY",
+      "folder": "root",
+      "title": "Ответ на обращение в Виртуальную приемную ОАО «РЖД».eml",
+      "type": "eml",
+      "priority": 3,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1GlS5vXJSVypHZYZveIHggolMTuo3T1Xm",
+      "folder": "root",
+      "title": "Уведомление о приеме обращения в МВД России.eml",
+      "type": "eml",
+      "priority": 3,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1JlGc2Ddc8Wu7xxcpvExDAOtrNASCh-V-",
+      "folder": "root",
+      "title": "2024-10-09 скриншоты, filterimage.jpg.eml",
+      "type": "eml",
+      "priority": 3,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1LG8Phj-ggo92qBc0gv3wj6Yk4swDiMkE",
+      "folder": "root",
+      "title": "Регистрация запроса на портале «Архивы Санкт-Петербурга».eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1c_AM-kdYe_CB_N1WU48d0UnOZZgZMJo4",
+      "folder": "root",
+      "title": "Заказ 42073 оплачен, spbarchives.ru.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1_eg_byvKs3_49d_m3LrLQRtjm1QqCh5A",
+      "folder": "root",
+      "title": "ЦГИА СПб. Подготовлен счет по заказу 42073.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1l2Ln-fRmBEFqO9T7Hup-UKJg2Q23Lp_A",
+      "folder": "root",
+      "title": "ЦГИА СПб. Трек-номер.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1IrE9ZKjVFvpXOSXPuDv1yWyLYkLP7Nev",
+      "folder": "root",
+      "title": "Статус рассмотрения обращения № 52554391 изменился.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1d8CR8xqllDepFShSQea-ww_MXxp0kpZ0",
+      "folder": "root",
+      "title": "Обращение 1040831 передано на рассмотрение.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1zfiys04ruAJRzs3DmaS4A-_pNh-lhfGL",
+      "folder": "root",
+      "title": "Изменение статуса рассмотрения обращения 1040831.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "158Uoxq3BeliII3vmaGziXRORE0SXnkqf",
+      "folder": "root",
+      "title": "Регистрация в АИС ЭЛАР-Архив подтверждена.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1fr25vsQcSHbrwq70o1Igk6umGBE0We1g",
+      "folder": "root",
+      "title": "Информация по Вашему запросу обновлена.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1_kOWV-67zHT9uxAdAlm_NXLXJ1dgwz2v",
+      "folder": "root",
+      "title": "Информация по Вашему запросу обновлена.eml (второй экземпляр)",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "13sdgQ4dTQcp4noguDTvRt83qb326M1gT",
+      "folder": "root",
+      "title": "об оплате услуг архива.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1ApxWNA4PBENmtGaw-_-jxVuz4NvD6Rfs",
+      "folder": "root",
+      "title": "Заказ дел.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1AXesqU1YBKZ7745h5DScTAUCVX8maPeM",
+      "folder": "root",
+      "title": "Поиск в ЕГР.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1aqPiExKs1BY9urCxfyfTHkPOanEgLDgo",
+      "folder": "root",
+      "title": "Поиск в ЕГР.eml (второй экземпляр)",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "106DF0KsqmK-u-Voc8AAbVG67Vb-3VpsZ",
+      "folder": "root",
+      "title": "С НОВЫМ ГОДОМ!.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1j731fmYgRR1hwI2vbCSGJNuibIzW5y9W",
+      "folder": "root",
+      "title": "Импорт GEDCOM в сервис Familio.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
+    },
+    {
+      "id": "1eAx0TQaA8qYGkSE9dYlgWY8xPgSp4owN",
+      "folder": "Блиновы-Вегман",
+      "title": "Ваше обращение в электронную приемную РГПУ зарегистрировано.eml",
+      "type": "eml",
+      "priority": 5,
+      "status": "pending",
+      "note": "архивная переписка, в очередь не входила до 20.09.2026"
     }
   ],
   "eml_note": "В корне папки ~45 писем .eml (переписка с архивами: ЦГИА СПб, ГАТО, ГАПО, РГПУ им. Герцена, МВД, РЖД). Обрабатываются отдельной очередью, см. INVENTORY.md.",
-  "junk_note": "Файлы *.html размером 406-672 байта — битые ярлыки Chrome, генеалогической информации не содержат. Помечены skip."
+  "junk_note": "Файлы *.html размером 406-672 байта — битые ярлыки Chrome, генеалогической информации не содержат. Помечены skip.",
+  "_eml_method": "Файлы .eml читаются так: download_file_content отдаёт base64, декодировать и разбирать модулем email (email.message_from_bytes). read_file_content для message/rfc822 не работает. Вложения внутри писем — отдельный слой, их тоже извлекать из частей сообщения."
 }
