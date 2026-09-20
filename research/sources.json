@@ -231,7 +231,8 @@
       "title": "Дело. ЛГПИ Вегман Галина Ароновна.pdf",
       "type": "pdf",
       "priority": 3,
-      "status": "pending"
+      "status": "done",
+      "note": "текстовый слой; визуальная сверка не выполнена — download обрывается"
     },
     {
       "id": "10oRjetAh0OWvEGLFP_xIZqjuWR4_yPtc",
