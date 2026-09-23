@@ -8,7 +8,7 @@
 ---
 
 **Subject:** Tracing request — Nadezhda Petrovna FEDOROVA (b. 7 May 1923) and her mother
-Olimpiada Fedorovna FEDOROVA, née PONOMAREVA (b. July 1898), civilian forced labourers in
+Olimpiada Fedorovna FEDOROVA, formerly PONOMAREVA (b. 15 July 1898), civilian forced labourers in
 Darmstadt from 18 December 1943
 
 Dear Sir or Madam,
@@ -21,7 +21,7 @@ including those not yet available online, that show what happened to them afterw
 
 **Please search under all name forms listed below.** The German clerks recorded both women in
 very distorted ways. Several records show the first name in the surname column, a shortened
-surname, the maiden name instead of the married name, or a wrong year of birth. Further
+surname, her earlier surname instead of the married one, or a wrong year of birth. Further
 records may exist under yet other spellings.
 
 **Person 1**
@@ -40,17 +40,21 @@ records may exist under yet other spellings.
 
 **Person 2**
 
-- Name: Olimpiada Fedorovna FEDOROVA (Олимпиада Фёдоровна Фёдорова), maiden name
-  PONOMAREVA (Пономарёва).
+- Name: Olimpiada Fedorovna FEDOROVA (Олимпиада Фёдоровна Фёдорова). Before her marriage
+  to Pyotr Fedorov on 5 August 1922 she was PONOMAREVA (Пономарёва). The 1922 marriage
+  record calls her divorced and the marriage her second, so Ponomareva may be the name of
+  her first husband rather than her maiden name. Her maiden name is unknown.
 - Forms already found in your records: «OLIMPIADE, P.» and «OLIMPIADA, P.» (first name in
   the surname column, surname cut to «P.»); «PANAMOREWA, Olympiada» and «PANAMOREWA,
-  Olympiade» (maiden name); «PANAMOREWA PANAMEREWA, Olympiada» with the year misprinted as
+  Olympiade» (her pre-1922 surname); «PANAMOREWA PANAMEREWA, Olympiada» with the year misprinted as
   1893.
 - Other possible forms: Ponomarewa, Ponomareva, Ponamarewa, Panamarewa, Ponomarjowa,
   Fedorowa, Fjodorowa; first names Olimpiada, Olympiada, Olympiade, Olimpia, Olympia,
   Alimpiada.
-- Born: July 1898. Family records give 15 July 1898, all German records 28 July 1898. She
-  was 24 years old in May 1923. Place of birth in German records: «Pawloks», «Pawloka».
+- Born: 15 July 1898 (marriage register entry No. 146 of 5 August 1922, Pushkin district,
+  Central State Archive of St Petersburg, f. 6143, op. 2, d. 831). All German records give
+  28 July 1898, which is 15 July converted from the old calendar with a 13-day shift.
+- Address in 1922: Pavlovsk, Pravlenskaya Street 8. Place of birth in German records: «Pawloks», «Pawloka».
 
 **What your online archive already shows**
 
