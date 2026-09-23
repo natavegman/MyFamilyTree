@@ -75,8 +75,13 @@ of death.
 
 1. Are there further documents about either woman, especially records not available
    online? For example:
-   - the AOK Darmstadt personal card (Personalkarte) of Olimpiada, and any AOK card of
-     Nadezhda;
+   - the AOK Darmstadt personal card (Personalkarte) of Olimpiada (Liste K, Russia, sheet 19,
+     DocID 70308098), and any health insurance card of Nadezhda. Nadezhda does not appear in
+     that AOK list, and neither does anyone else from their group that arrived on
+     18 December 1943 (list No. 26). Only Olimpiada does. Could the group have been insured
+     with another health insurance fund, for example the fund of the district where their
+     camp was, or a company fund of Donges Stahlbau? If you hold such records, please check
+     them for both women;
    - employer and camp records of Donges Stahlbau;
    - labour office records;
    - records of the transport that brought them to Darmstadt on 18 December 1943;
