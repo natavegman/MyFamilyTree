@@ -40,16 +40,16 @@ records may exist under yet other spellings.
 
 **Person 2**
 
-- Name: Olimpiada Fedorovna FEDOROVA (Олимпиада Фёдоровна Фёдорова). Before her marriage
-  to Pyotr Fedorov on 5 August 1922 she was PONOMAREVA (Пономарёва). The 1922 marriage
-  record calls her divorced and the marriage her second, so Ponomareva may be the name of
-  her first husband rather than her maiden name. Her maiden name is unknown.
+- Name: Olimpiada Fedorovna FEDOROVA (Олимпиада Фёдоровна Фёдорова), née PONOMAREVA
+  (Пономарёва). From December 1921 to August 1922 she was married to Aleksey Vasilyevich
+  KONOPELKIN (Конопелькин) and bore the surname KONOPELKINA (Конопелькина). She married
+  Pyotr Fedorov on 5 August 1922.
 - Forms already found in your records: «OLIMPIADE, P.» and «OLIMPIADA, P.» (first name in
   the surname column, surname cut to «P.»); «PANAMOREWA, Olympiada» and «PANAMOREWA,
-  Olympiade» (her pre-1922 surname); «PANAMOREWA PANAMEREWA, Olympiada» with the year misprinted as
+  Olympiade» (her maiden name); «PANAMOREWA PANAMEREWA, Olympiada» with the year misprinted as
   1893.
 - Other possible forms: Ponomarewa, Ponomareva, Ponamarewa, Panamarewa, Ponomarjowa,
-  Fedorowa, Fjodorowa; first names Olimpiada, Olympiada, Olympiade, Olimpia, Olympia,
+  Fedorowa, Fjodorowa, Konopelkina, Konopelkin, Konopjelkina, Konopelkowa; first names Olimpiada, Olympiada, Olympiade, Olimpia, Olympia,
   Alimpiada.
 - Born: 15 July 1898 (marriage register entry No. 146 of 5 August 1922, Pushkin district,
   Central State Archive of St Petersburg, f. 6143, op. 2, d. 831). All German records give
