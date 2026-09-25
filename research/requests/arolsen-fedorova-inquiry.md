@@ -54,7 +54,9 @@ records may exist under yet other spellings.
 - Born: 15 July 1898 (marriage register entry No. 146 of 5 August 1922, Pushkin district,
   Central State Archive of St Petersburg, f. 6143, op. 2, d. 831). All German records give
   28 July 1898, which is 15 July converted from the old calendar with a 13-day shift.
-- Address in 1922: Pavlovsk, Pravlenskaya Street 8. Place of birth in German records: «Pawloks», «Pawloka».
+- Occupation: typist and office clerk; educated at the Mariinsky girls' gymnasium in
+  Tsarskoye Selo. She already signed as Ponomareva in November 1919.
+- Address in 1919 and 1922: Slutsk (Pavlovsk), Pravlenskaya Street 8. Place of birth in German records: «Pawloks», «Pawloka».
 
 **What your online archive already shows**
 
