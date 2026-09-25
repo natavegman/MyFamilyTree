@@ -62,15 +62,15 @@ records may exist under yet other spellings.
 
 | DocID | Collection | Entry |
 |---|---|---|
-| 70307493, 70307829 | 2.1.1.1, DE ITS 2.1.1.1 HE 006 RUS 7 ZM — police list Stufe III, Liste F, Darmstadt, Russia, sheet 66 | «Nadezda, Fedor», 7.5.1923, Powlosik, Ziv. Arb., from 18.12.1943 |
-| 87797274, 87798700 | 2.1.1.2, 10009576 03 and 06 — list No. 26, row 124 | «Nadezda, Fedor», 7.5.23, Powlosik, w, from 18.12.1943 |
-| 70307498, 70307830 | 2.1.1.1 — Liste F, Darmstadt, Russia, sheet 71 | «Olimpiade, P.», 28.7.1898, Pawloks, w., Ziv. Arb., from 18.12.1943 |
-| 87797279, 87798701 | 2.1.1.2 — list No. 26, row 136 | «Olimpiade, P.», 28.7.98, Pawloks, w, from 18.12.1943 |
-| 87798186, 87800073, 70307560 | 2.1.1.2 and 2.1.1.1 — alphabetical index of Russians in Darmstadt | «Olimpiade, P. 26/136»; «Nadezda, Fedor 26/124» |
-| 70308098 | 2.1.1.1 — Stufe III, Liste K, Russia, sheet 19, compiled from the records of the Allgemeine Ortskrankenkasse Darmstadt | «Panamorewa Olympiada», 28.7.98, w., **Personalkarte**, dates «unbek.», original kept by the AOK Darmstadt |
-| 70307387, 70308855, 87802136 | 2.1.1.1 and 2.1.1.2 — police Liste F, Russia | «Panamorewa Olympiada», 28.7.98 (once 1893), w., no dates |
-| 70307647 | 2.1.1.1 — Darmstadt list of foreigners, page 42 | «Panamorewa Olympiada», 28.7.1898, w., «unbekannt, Darmstadt», entf. |
-| 87802859, 87803009 | 2.1.1.2 | «Panamorewa Olympiada», 28.7.1898 |
+| [70307493](https://collections.arolsen-archives.org/en/document/70307493), [70307829](https://collections.arolsen-archives.org/en/document/70307829) | 2.1.1.1, DE ITS 2.1.1.1 HE 006 RUS 7 ZM — police list Stufe III, Liste F, Darmstadt, Russia, sheet 66 | «Nadezda, Fedor», 7.5.1923, Powlosik, Ziv. Arb., from 18.12.1943 |
+| [87797274](https://collections.arolsen-archives.org/en/document/87797274), [87798700](https://collections.arolsen-archives.org/en/document/87798700) | 2.1.1.2, 10009576 03 and 06 — list No. 26, row 124 | «Nadezda, Fedor», 7.5.23, Powlosik, w, from 18.12.1943 |
+| [70307498](https://collections.arolsen-archives.org/en/document/70307498), [70307830](https://collections.arolsen-archives.org/en/document/70307830) | 2.1.1.1 — Liste F, Darmstadt, Russia, sheet 71 | «Olimpiade, P.», 28.7.1898, Pawloks, w., Ziv. Arb., from 18.12.1943 |
+| [87797279](https://collections.arolsen-archives.org/en/document/87797279), [87798701](https://collections.arolsen-archives.org/en/document/87798701) | 2.1.1.2 — list No. 26, row 136 | «Olimpiade, P.», 28.7.98, Pawloks, w, from 18.12.1943 |
+| [87798186](https://collections.arolsen-archives.org/en/document/87798186), [87800073](https://collections.arolsen-archives.org/en/document/87800073), [70307560](https://collections.arolsen-archives.org/en/document/70307560) | 2.1.1.2 and 2.1.1.1 — alphabetical index of Russians in Darmstadt | «Olimpiade, P. 26/136»; «Nadezda, Fedor 26/124» |
+| [70308098](https://collections.arolsen-archives.org/en/document/70308098) | 2.1.1.1 — Stufe III, Liste K, Russia, sheet 19, compiled from the records of the Allgemeine Ortskrankenkasse Darmstadt | «Panamorewa Olympiada», 28.7.98, w., **Personalkarte**, dates «unbek.», original kept by the AOK Darmstadt |
+| [70307387](https://collections.arolsen-archives.org/en/document/70307387), [70308855](https://collections.arolsen-archives.org/en/document/70308855), [87802136](https://collections.arolsen-archives.org/en/document/87802136) | 2.1.1.1 and 2.1.1.2 — police Liste F, Russia | «Panamorewa Olympiada», 28.7.98 (once 1893), w., no dates |
+| [70307647](https://collections.arolsen-archives.org/en/document/70307647) | 2.1.1.1 — Darmstadt list of foreigners, page 42 | «Panamorewa Olympiada», 28.7.1898, w., «unbekannt, Darmstadt», entf. |
+| [87802859](https://collections.arolsen-archives.org/en/document/87802859), [87803009](https://collections.arolsen-archives.org/en/document/87803009) | 2.1.1.2 | «Panamorewa Olympiada», 28.7.1898 |
 
 «Powlosik», «Pawloks» and «Pawloka» are distortions of Pavlovsk. The first page of list
 No. 26 bears the pencil note «Donges Stahlbau», which suggests they worked for the Donges
