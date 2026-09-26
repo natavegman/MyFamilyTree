@@ -1,0 +1,3517 @@
+{
+ "source_articles": [
+  "https://pikabu.ru/story/svodnyiy_reestr_onlaynistochnikov_dlya_genealogicheskogo_poiska_chast_1_7978395",
+  "https://pikabu.ru/story/svodnyiy_reestr_onlaynistochnikov_dlya_genealogicheskogo_poiska_chast_2_7978410",
+  "https://pikabu.ru/story/svodnyiy_reestr_onlaynistochnikov_dlya_genealogicheskogo_poiska_chast_3_7978425"
+ ],
+ "checked_at": "2026-09-26",
+ "branches": {
+  "ФЁД": "Фёдоровы: Слуцк/Павловск, угон 1943, Дармштадт",
+  "СПБ": "Петербург/Ленинград и губерния",
+  "РЯЗ": "Рязанская губ. (Михайловский, Скопинский у.)",
+  "ТУЛ": "Тульская губ. (Богородицкий у.)",
+  "ПЕН": "Пензенская губ.",
+  "НОВ": "Новгородская губ. (Крестецкий у.)",
+  "АРХ": "Архангельская губ. (Пинежский у.)",
+  "БЕЛ": "Минская губ. / Беларусь",
+  "ЭСТ": "Эстония (Ревель)"
+ },
+ "resources": [
+  {
+   "section": "Форумы и навигация",
+   "name": "Форум «Всероссийское генеалогическое древо» (ВГД)",
+   "url": "http://forum.vgd.ru/",
+   "covers": "Главный генеалогический форум: темы по населённым пунктам и фамилиям, описи, помощь; карта — после регистрации",
+   "access": "бесплатно, регистрация для карты",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "ВГД: советы начинающим",
+   "url": "https://vgd.ru/generes.htm",
+   "covers": "Подборка ссылок и методичек",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Форум СВРТ",
+   "url": "http://forum.svrt.ru/",
+   "covers": "Всероссийский генеалогический форум Союза возрождения родословных традиций",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Форум «Генеалогия Украины»",
+   "url": "http://forum.genoua.name/index.php",
+   "covers": "Всеукраинский генеалогический форум",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-429",
+   "archive": "http://web.archive.org/web/20230322120958/http://forum.genoua.name/index.php"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Форум «Русская генеалогия»",
+   "url": "http://rusgenealogy.clan.su/forum/",
+   "covers": "Частный генеалогический форум",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Форум уральских родословных обществ",
+   "url": "https://rodgersforum.borda.ru/",
+   "covers": "Объединённый форум историко-родословных обществ Урала",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260608055552/http://rodgersforum.borda.ru/"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Как узнать приход (metrics.tilda.ws)",
+   "url": "http://metrics.tilda.ws/kak_uznat_prihod",
+   "covers": "Справочники по церковно-приходскому делению епархий Российской империи (православные)",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ",
+    "ТУЛ",
+    "НОВ",
+    "АРХ",
+    "ПЕН"
+   ],
+   "note": "Нужно для поиска метрик по деревням: Шутиловичи (НОВ), Михайловский у. (РЯЗ), Богородицкий у. (ТУЛ)",
+   "status": "ok"
+  },
+  {
+   "section": "Форумы и навигация",
+   "name": "Radzima.net",
+   "url": "https://www.radzima.net/ru/",
+   "covers": "Беларусь и Литва: административная принадлежность населённых пунктов по эпохам, православные и католические приходы",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "East View: путеводители архивов России",
+   "url": "http://guides.eastview.com/browse/browse.html",
+   "covers": "Сводный справочник по путеводителям архивов",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "metrics.tilda.ws — описи метрических книг",
+   "url": "http://metrics.tilda.ws/",
+   "covers": "Ссылки на описи метрических книг региональных архивов России и ближнего зарубежья",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ",
+    "ТУЛ",
+    "НОВ",
+    "АРХ",
+    "ПЕН",
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "metrics.tilda.ws — НСА архивов",
+   "url": "http://metrics.tilda.ws/archives",
+   "covers": "Ссылки на научно-справочный аппарат на сайтах архивов",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20240905215251/https://metrics.tilda.ws/archives"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Сохранность переписи 1897 г. (АлтГУ)",
+   "url": "http://arch1897.histcensus.asu.ru/",
+   "covers": "Где сохранились первичные листы переписи 1897 г.",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Перепись 1897 — сохранность (metrics.tilda.ws)",
+   "url": "http://metrics.tilda.ws/perepis1897",
+   "covers": "То же, альтернативный свод",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Центральный фондовый каталог России",
+   "url": "http://cfc.rusarchives.ru/CFC-search/",
+   "covers": "Сквозной поиск по заголовкам дел архивов России (не все архивы дали данные); есть дела РГАСПИ",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Искать фамилии и топонимы: Слуцк, Павловск, Шутиловичи",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260424192759/https://cfc.rusarchives.ru/CFC-search/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "ГАРФ — электронные описи",
+   "url": "http://www.statearchive.ru/383",
+   "covers": "Поиск дел по заголовкам (в т.ч. по фамилии); личные дела иногда сшиты с другими",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД",
+    "все"
+   ],
+   "note": "Ф. Р-7021 (ЧГК), фонды репатриации Р-9526 — для запроса по Павловску",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "РГИА — описи и указатели",
+   "url": "http://rgia.su/type/stocks#",
+   "covers": "Электронные описи, именной указатель (с адрес-календарями); проиндексировано ~10% заголовков",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "РГАДА — описи",
+   "url": "http://rgada.info/poisk/index.php?fund_number=&fund_name=&list_number=&list_name=&Sk=30&B1=",
+   "covers": "Ревизские сказки 1719–1762 всех регионов и др.; описи — картинками, без поиска по делам",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ",
+    "ТУЛ",
+    "НОВ",
+    "АРХ",
+    "ПЕН"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "РГАЛИ",
+   "url": "http://www.rgali.ru/type/",
+   "covers": "Деятели культуры",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20210916184043/https://rgali.ru/type/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "РГАВМФ",
+   "url": "http://rgavmf.ru/index.php?option=",
+   "covers": "Военно-морской флот",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "РГАЭ — описи",
+   "url": "http://opisi.rgae.ru",
+   "covers": "Поиск по фамилии: личные дела производственной номенклатуры, железнодорожников",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260831045601/http://opisi.rgae.ru/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Архивы Пермского края",
+   "url": "https://archives.permkrai.ru/",
+   "covers": "Образцовые путеводители и описи",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Архивный фонд Ярославской области",
+   "url": "http://af.yar-archives.ru/",
+   "covers": "Путеводители, описи; метрики, сказки, перепись 1897 (платно)",
+   "access": "частично платно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250725070654/https://af.yar-archives.ru/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "ЦГА Москвы — путеводители",
+   "url": "http://cgamos.ru/guides/",
+   "covers": "Официальные путеводители",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "Московская часть ветви Блиновых",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20220123231949/https://cgamos.ru/guides/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "kraevedmo.ru — описи ЦГА Москвы",
+   "url": "http://kraevedmo.ru/",
+   "covers": "Неофициальные описи московских архивов",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "ЦАНО (Нижний Новгород)",
+   "url": "http://www.archiv.nnov.ru/?id=5887",
+   "covers": "Официальный НСА",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "opentextnn.ru — описи ЦАНО",
+   "url": "http://opentextnn.ru/category/archives/afnn/",
+   "covers": "Неофициальные описи",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Архив ЕАО — описи",
+   "url": "http://arhiv.eao.ru/archive-opisi",
+   "covers": "Описи архива Еврейской АО",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "Вторая страница: http://arhiv.eao.ru/opisi/index.php",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220125185742/http://arhiv.eao.ru/archive-opisi"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Каталог метрических книг Карелии",
+   "url": "http://rkna.ru/projects/metrics/",
+   "covers": "Метрики Карелии",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Электронный каталог архива Тувы",
+   "url": "https://catalog.gosarhivrt.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20251105072357/https://catalog.gosarhivrt.ru/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "ГАТО (Тула) — НСА",
+   "url": "http://tulagosarchive.ru/nsa.html",
+   "covers": "Описи метрик (Ф. 3 Оп. 15) и исповедных (Ф. 3 Оп. 16)",
+   "access": "бесплатно",
+   "branches": [
+    "ТУЛ"
+   ],
+   "note": "Юрчиковы, Экономовы — Богородицкий уезд",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20221115232050/https://www.tulagosarchive.ru/nsa.html"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Электронный каталог архивов Тульской области",
+   "url": "https://archives.tularegion.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "ТУЛ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Луганский архив — фонды",
+   "url": "http://lg.archives.gov.ua/pages/fonds-publications.html#tab19",
+   "covers": "Списки фондов",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250514010203/https://lg.archives.gov.ua/pages/fonds-publications.html"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Госкаталог музейного фонда РФ",
+   "url": "https://goskatalog.ru/portal",
+   "covers": "Поиск документов и фото в музеях по названию местности",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Искать «Павловск», «Слуцк» — фото и документы 1920–40-х",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20241122122211/https://goskatalog.ru/portal/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Каталог утраченных фондов (lostart.ru)",
+   "url": "http://www.lostart.ru/catalog/ru/tom4/",
+   "covers": "Почему документы не сохранились",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД",
+    "все"
+   ],
+   "note": "Потери архивов Ленинградской области в оккупацию",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Местонахождение документов по личному составу",
+   "url": "http://ls.rusarchives.ru/",
+   "covers": "Где искать личные дела ликвидированных советских организаций (федеральные архивы)",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "все"
+   ],
+   "note": "Например, где кадры Обуховской больницы, треста Коммунальных домов",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20251003010750/http://ls.rusarchives.ru/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Личные фонды в архивах СССР",
+   "url": "http://portal.rusarchives.ru/guide/lf_ussr/abc.shtml",
+   "covers": "Справочник по личным фондам",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240619074349/https://portal.rusarchives.ru/guide/lf_ussr/abc.shtml"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Сводный каталог метрических книг Украины",
+   "url": "http://undiasd.archives.gov.ua/index.php?m=21#NPos",
+   "covers": "Метрики, исповедные, брачные обыски в архивах Украины",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20260113152348/https://undiasd.archives.gov.ua/index.php?m=21"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Архивы Беларуси — генеалогия",
+   "url": "http://archives.gov.by/home/genealogiya",
+   "covers": "Сохранность метрик, сказок и др. по Беларуси",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Сводный фондовый каталог Беларуси",
+   "url": "http://f.archives.gov.by/",
+   "covers": "Поиск фондов по названию",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Похозяйственные книги Беларуси",
+   "url": "http://kartapolaka.eu/pochozjajstwennyje_knigi#!/tab/54137702-16",
+   "covers": "Каталог похозяйственных книг",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Фондовый каталог Армении",
+   "url": "http://www.armarchives.am/ru/content/237/",
+   "covers": "Поиск на русском",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Фондовый каталог Латвии",
+   "url": "http://webcfr.arhivi.gov.lv/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Фондовый каталог Литвы (EAIS)",
+   "url": "https://eais-pub.archyvai.lt/eais/",
+   "covers": "Оцифрованные описи и ссылки на дела",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20230323083518/https://eais-pub.archyvai.lt/eais/"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "ЦГИА Грузии — описи",
+   "url": "https://archival-services.gov.ge/fonds/welcome/aids",
+   "covers": "Описи на русском, названия фондов — на грузинском",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20220702203709/https://archival-services.gov.ge/fonds/welcome/aids"
+  },
+  {
+   "section": "Путеводители и каталоги архивов",
+   "name": "Путеводитель В. Семёнова: архивы России",
+   "url": "http://russianmemory.ru/ru/ros/archivi-rossii",
+   "covers": "Опыт работы в региональных архивах; удалён — смотреть через web.archive.org",
+   "access": "web.archive.org",
+   "branches": [
+    "все"
+   ],
+   "note": "Части: …/archivi-rossii/archivi-oblastey и …/archivi-rossii/archiv-respublik",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20151127080906/http://russianmemory.ru:80/ru/ros/archivi-rossii"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "ГПИБ — электронная библиотека",
+   "url": "http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib",
+   "covers": "Генеалогические справочники, адрес-календари, городские справочники, губернская периодика",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Адрес-календари Петрограда/Ленинграда, «Весь Ленинград»",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260809054127/http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "РГБ — электронная библиотека",
+   "url": "http://elibrary.rsl.ru/",
+   "covers": "Губернская периодика, списки дворян, адрес-календари, земские журналы, списки чиновников, студентов, офицеров",
+   "access": "бесплатно (часть — в читальном зале)",
+   "branches": [
+    "все"
+   ],
+   "note": "Контекстный поиск: http://search.rsl.ru",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "РНБ — каталог",
+   "url": "http://primo.nlr.ru/primo_library/libweb/action/search.do?menuitem=2&catalog=true",
+   "covers": "Губернская периодика, адрес-календари, справочники, списки чиновников, врачей, офицеров",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20251130170040/https://primo.nlr.ru/primo_library/libweb/action/search.do?menuitem=2&catalog=true"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "НЭБ — Национальная электронная библиотека",
+   "url": "https://rusneb.ru/",
+   "covers": "Сводный поиск по оцифровке ГПИБ, РГБ, РНБ и региональных библиотек",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "Президентская библиотека",
+   "url": "http://www.prlib.ru",
+   "covers": "Списки дворян, списки населённых мест, документы РГИА, ГАРФ",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260910103425/http://www.prlib.ru/"
+  },
+  {
+   "section": "Библиотеки",
+   "name": "Библиотека «Царское Село» (book-old2)",
+   "url": "http://book-old2.ru/",
+   "covers": "Списки населённых мест, памятные книжки, указатели, газеты, армия и флот до революции",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Памятные книжки Петербургской, Рязанской, Тульской, Новгородской губ.",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20210921170717/https://book-old2.ru/"
+  },
+  {
+   "section": "Георгиевские кавалеры",
+   "name": "Георгиевские кавалеры (Росархив)",
+   "url": "http://cavalier.rusarchives.ru/pages/about",
+   "covers": "Сводная база",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Георгиевские кавалеры",
+   "name": "База Патрикеева",
+   "url": "https://www.numismat.ru/gkcatalogs.shtml",
+   "covers": "Русско-японская война, орден",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Георгиевские кавалеры",
+   "name": "medalirus.ru — приказы",
+   "url": "http://medalirus.ru/georgievskie-kavalery/prikazy/",
+   "covers": "С описаниями подвигов",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Георгиевские кавалеры",
+   "name": "92-й пехотный полк",
+   "url": "http://kdkv.narod.ru/92/GK-WW1.html",
+   "covers": "Только 92-й Печорский полк",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Именные списки потерь (personalhistory.ru)",
+   "url": "http://personalhistory.ru/db/db.php",
+   "covers": "Потери ПМВ, Гражданской, Русско-турецкой 1877–78 и Русско-японской",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260224192320/https://personalhistory.ru/db/db.php"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Списки потерь ПМВ (СВРТ)",
+   "url": "http://1914.svrt.ru/",
+   "covers": "Алфавитные списки потерь 1914–1918",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260708175715/https://1914.svrt.ru/"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Памяти героев Великой войны",
+   "url": "http://gwar.mil.ru/",
+   "covers": "Карточки потерь, награждения, документы ПМВ",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260902153014/https://gwar.mil.ru/"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Книги памяти (genealog-grigorov)",
+   "url": "http://genealog-grigorov.ru",
+   "covers": "Рязань, Воронеж, Крым, ЧФ, Нижний Новгород, Шатура + Рязанский концлагерь Гражданской войны",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "Рязанские книги памяти — ветвь Блиновых/Гуськовых",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260210110641/https://genealog-grigorov.ru/"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Госархив Липецкой обл. — списки ПМВ",
+   "url": "http://госархив48.рф/",
+   "covers": "Убитые, пропавшие, пленные, инвалиды (Липецк, Лебедянь, Раненбург) — раздел «Деятельность»",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "Раненбург — бывший уезд Рязанской губ.",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260720152428/https://xn--48-6kcid5a3brh6b.xn--p1ai/"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Тульская губерния — потери и кавалеры",
+   "url": "http://tulagosarchive.ru/kavalers/index.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "ТУЛ"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20221008193855/https://tulagosarchive.ru/kavalers/index.html"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Картотека участников ПМВ (Вологда)",
+   "url": "http://1914.military-vologda.ru",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Беженцы ПМВ в Нижегородской губ.",
+   "url": "http://bezhentsy-pmv.com/database.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20221204162341/http://bezhentsy-pmv.com/database.html"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Участники Белого движения (С. Волков)",
+   "url": "http://swolkov.org/2_baza_beloe_dvizhenie/2_baza_beloe_dvizhenie_abc-01.htm",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Жертвы революции 1917 года",
+   "url": "http://sovdoc.rusarchives.ru/sections/revolution/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Петлюровцы",
+   "url": "http://www.db.geroika.org.ua/ua/home",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Первая мировая и Гражданская войны",
+   "name": "Mémoire des hommes (Франция)",
+   "url": "https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/recherche_transversale/bases_nominatives.php",
+   "covers": "Французские базы по ПМВ и ВМВ",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20250520124519/https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/recherche_transversale/bases_nominatives.php"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Память народа",
+   "url": "https://pamyat-naroda.ru/",
+   "covers": "Сводный банк: награды, потери, документы частей",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД",
+    "все"
+   ],
+   "note": "Виктор Петрович Фёдоров (плен, Ламсдорф)",
+   "status": "http-401"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Картотека офицеров",
+   "url": "https://foto.pamyat-naroda.ru/ofcer",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Дорога памяти",
+   "url": "https://foto.pamyat-naroda.ru/",
+   "covers": "Пользовательские фото и данные",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Подвиг народа",
+   "url": "http://podvignaroda.mil.ru/",
+   "covers": "Награды (ныне входит в «Память народа»)",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "ОБД «Мемориал»",
+   "url": "https://obd-memorial.ru/html/index.html",
+   "covers": "Погибшие и пропавшие, в т.ч. карточки военнопленных",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД",
+    "все"
+   ],
+   "note": "Уже использован для Виктора Петровича Фёдорова",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Бессмертный полк",
+   "url": "http://www.moypolk.ru",
+   "covers": "База не совпадает с региональными",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Белгородская региональная: http://polk31.ru/heroes/",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Награды партизан (РГАСПИ)",
+   "url": "http://rgaspi.info/k-75-letiyu-pobedy/nagrady-partizan/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Партизаны Беларуси",
+   "url": "https://partizany.by/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Книга памяти Украины",
+   "url": "http://memory-book.com.ua",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-500",
+   "archive": "http://web.archive.org/web/20260222160949/https://memory-book.com.ua/"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Мартиролог (музей ВМВ, Киев)",
+   "url": "https://martyrology.org.ua/",
+   "covers": "Карточки для книг памяти, документы военкоматов (Винница, Волынь, Житомир, Киев)",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260814183039/https://martyrology.org.ua/"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Книга памяти Беларуси",
+   "url": "https://www.mil.by/base/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20231121092712/https://www.mil.by/base/"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Блокада Ленинграда — погибшие (РНБ)",
+   "url": "http://visz.nlr.ru/blockade/index.html",
+   "covers": "Книга памяти «Блокада»",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "ФЁД"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Сводная книга памяти блокадного Ленинграда",
+   "url": "http://blockade.spb.ru/",
+   "covers": "Карта: http://map.blockade.spb.ru/",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "ФЁД"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Медаль «За оборону Ленинграда»",
+   "url": "https://medal.spbarchives.ru/",
+   "covers": "Награждённые блокадники",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Великая Отечественная и Вторая мировая",
+   "name": "Медаль «За оборону Севастополя»",
+   "url": "https://sevarchiv.ru/medal-za-oboronusevastopolya-1941-1942/?records=",
+   "covers": "Гражданские награждённые",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Госпитали Кировской области",
+   "url": "http://www.gako-kirov.ru/base/evacg.php",
+   "covers": "Умершие в эвакогоспиталях",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250217093616/http://gako-kirov.ru/base/evacg.php"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Списки эвакуированных из ГАРФ по регионам",
+   "url": "https://drive.google.com/drive/folders/1dSA7MWBNXxg6PuDRFwT86IO6gYDnUI6d",
+   "covers": "Недостающие дела — в Яд Вашем (подсказки: https://forum.j-roots.info/viewtopic.php?f=26&t=1196&start=440)",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "Эвакуация Галины Васильевны и Валерии в Ярославскую обл., 1942",
+   "status": "ok"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Эвакуированные блокадники Ленинграда (ЦГА СПб)",
+   "url": "http://evacuation.spbarchives.ru/",
+   "covers": "База по эвакуированным из Ленинграда",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "ФЁД"
+   ],
+   "note": "Проверена по Олимпиаде: омская эвакуированная — другая женщина",
+   "status": "ok"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Ленинградцы в Ярославской области",
+   "url": "https://af.yar-archives.ru/database/9",
+   "covers": "Также: http://yar-archives.ru/action/publications/Blocada.html",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "ФЁД"
+   ],
+   "note": "Валерия Фёдорова с матерью, эвакуированы 18.07.1942",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20211127002543/https://af.yar-archives.ru/database/9"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Эвакуированные в г. Киров",
+   "url": "http://www.gako-kirov.ru/base/evac.php",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20241209064353/http://gako-kirov.ru/base/evac.php"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Эвакуированные в Молотовскую обл.",
+   "url": "https://www.permgaspi.ru/db/evacuated/",
+   "covers": "Также Верхне-Муллинский р-н http://arhivpr.ru/db/evacuated/ и Коми-Пермяцкий округ https://www.komi-permarchiv.ru/evac/persons",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Эвакуированные в Саратовскую обл.",
+   "url": "http://saratov.rusarchives.ru/bd/evak/index.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220123233306/http://saratov.rusarchives.ru/bd/evak/index.html"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "АИС архивов Челябинской обл.",
+   "url": "http://ais.archive74.ru/",
+   "covers": "Эвакуированные; переселенцы, посемейные списки; метрики платно",
+   "access": "частично платно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Эвакуированные",
+   "name": "Эвакуированные в Ташкент (USHMM)",
+   "url": "http://www.ushmm.org/remember/the-holocaust-survivors-and-victims-resource-center/holocaust-survivors-and-victims-database",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Труженики тыла",
+   "name": "Башкирия",
+   "url": "https://web.archive.org/web/20130619094931/http://www.kitap-ufa.ru/news/detail.php?id=1127",
+   "covers": "",
+   "access": "web.archive.org",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Труженики тыла",
+   "name": "Вологодская область",
+   "url": "https://www.booksite.ru/genealogy/3-10.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Труженики тыла",
+   "name": "Коломна помнит",
+   "url": "https://kolomnapomnit.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260313135037/http://kolomnapomnit.ru/"
+  },
+  {
+   "section": "Труженики тыла",
+   "name": "Удмуртия",
+   "url": "http://gasur.ru/databases/priz.php",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220402204705/http://gasur.ru/databases/priz.php"
+  },
+  {
+   "section": "Труженики тыла",
+   "name": "Ханты-Мансийский АО",
+   "url": "http://победа86.рф/nikto-ne-zabyt/oni-kovali-pobedu/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230924174912/https://xn--86-6kcdpf5dh.xn--p1ai/nikto-ne-zabyt/oni-kovali-pobedu/"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Саксонские мемориалы (dokst.ru)",
+   "url": "https://www.dokst.ru/main/content/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85",
+   "covers": "Советские военнопленные и остарбайтеры: карточки, персональные данные",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Виктор П. Фёдоров (шталаг VIII F Ламсдорф); проверить и гражданских",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Маутхаузен — «Зал имён»",
+   "url": "https://www.gedenkstaetten.at/raum-der-namen",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "Ссылка в статье обрезана — восстановлена по смыслу",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Дахау (Steve Morse)",
+   "url": "http://stevemorse.org/dachau/dachau.html",
+   "covers": "Поиск по узникам; запрос карточки: http://www.kz-gedenkstaette-dachau.de/kontakt.html",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Шталаг 326 (Штукенброк)",
+   "url": "https://sites.google.com/site/stalag326/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Пренцлау",
+   "url": "http://gsvg33.narod.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Аушвиц-Биркенау — узники",
+   "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20241109224230/https://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Гросс-Розен — умершие узники",
+   "url": "http://www.gross-rosen.eu/baza-zmarlychwiezniow/przegladaj-baze/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Майданек — узники",
+   "url": "http://www.majdanek.eu/pl/prisoners/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-308",
+   "archive": "http://web.archive.org/web/20260114140754/https://www.majdanek.eu/pl/prisoners"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Пермская БД «Военнопленные»",
+   "url": "https://www.permgaspi.ru/vplen/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Орловский концлагерь",
+   "url": "https://prev.gaorel.ru/index.php?option=com_content&view=article&id=28&Itemid=30",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Военнопленные — уроженцы Винницкой обл.",
+   "url": "https://drive.google.com/drive/folders/1LacQ85Q8s-LD1x3H2S9TRZrocvIzpu4C",
+   "covers": "ГАВО Ф. Р-6023 Оп. 3",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Военнопленные — уроженцы Киевской обл.",
+   "url": "https://memory-book.ua/gallery/albums/25921",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Военнопленные и остарбайтеры Сумской обл.",
+   "url": "http://daso.sm.gov.ua/abc.php",
+   "covers": "Также умершие в Конотопском концлагере: http://daso.sm.gov.ua/poloneni.php",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Военнопленные и концлагеря",
+   "name": "Умершие в Запорожском лазарете",
+   "url": "https://archivzp.gov.ua/images/stories/captives/captives",
+   "covers": "Ссылка в статье обрезана",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "Arolsen Archives — онлайн-архив",
+   "url": "https://collections.arolsen-archives.org/",
+   "covers": "Бывшая Международная служба розыска (ITS): списки иностранных рабочих, узников, DP. В статье — старый адрес digitalcollections.its-arolsen.org",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Основной источник по Надежде и Олимпиаде (Дармштадт). Запрос № 2026-09-25-61637 подан",
+   "status": "ok"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "Arolsen Archives — подать запрос",
+   "url": "https://arolsen-archives.org/en/search-explore/inquiries/",
+   "covers": "Бесплатный запрос о лицах, преследовавшихся нацистами, в т.ч. угнанных на работы. В статье — устаревшая ссылка its-arolsen.org",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Подан 25/26.09.2026",
+   "status": "ok"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "Фильтрационные дела — куда писать (Росархив)",
+   "url": "http://portal.rusarchives.ru/demands/sp/dok_fl.shtml",
+   "covers": "Где хранятся фильтрационные дела репатриантов по регионам",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Для запроса в МВД/областной архив по Фёдоровым",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220401205350/http://portal.rusarchives.ru/demands/sp/dok_fl.shtml"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "«Та сторона» — архив устной истории остарбайтеров",
+   "url": "http://tastorona.su",
+   "covers": "~300 интервью Центра устной истории «Мемориала», указатель людей, карты, выборка по местам. Сайт закрыт — только web.archive.org",
+   "access": "web.archive.org",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Архив: https://web.archive.org/web/20211229101029/http://tastorona.su/ ; интервью: https://web.archive.org/web/2023/http://archive.tastorona.su/ . Сохранён список 217 интервью — см. research/tastorona-interviews.csv",
+   "status": "ok"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "БД принудительного труда советских граждан («Мемориал»)",
+   "url": "http://ost-db.tastorona.su",
+   "covers": "Сведения из >320 тыс. писем бывших остарбайтеров. Закрыта; в web.archive сохранились только служебные страницы",
+   "access": "недоступна",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Письма в «Мемориал» о компенсациях — возможно, Надежда или Олимпиада писали в 1990-е",
+   "status": "ok"
+  },
+  {
+   "section": "Остарбайтеры, Arolsen, фильтрация",
+   "name": "OstWest (Мемориал) — списки угнанных из дел ГАРФ",
+   "url": "https://ostwest.memo.ru/all?rtype=0",
+   "covers": "Списки угнанных по регионам",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Проверить Ленинградскую обл., Слуцкий/Павловский район",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Жертвы политического террора в СССР («Мемориал»)",
+   "url": "http://base.memo.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Электронные книги памяти (РНБ)",
+   "url": "http://visz.nlr.ru/search/ebooks.html",
+   "covers": "В т.ч. «Ленинградский мартиролог»",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Сталинские списки",
+   "url": "http://stalin.memo.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260305005547/https://stalin.memo.ru/"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Расстрелянные в Бутово",
+   "url": "http://www.martyr.ru/spiski-rasstrelyannykh-v-butovo",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Мартиролог Красноярского края",
+   "url": "http://www.memorial.krsk.ru/martirol/1.htm",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260218121502/https://memorial.krsk.ru/martirol/1.htm"
+  },
+  {
+   "section": "Репрессии",
+   "name": "ПермГАНИ — реабилитированные",
+   "url": "https://www.permgaspi.ru/repress/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Книга памяти Восточного Забайкалья",
+   "url": "http://zabarchives.ru/memory",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Открытый список",
+   "url": "https://ru.openlist.wiki/",
+   "covers": "Сводная вики-база репрессированных",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Раскулаченные — Свердловская обл.",
+   "url": "http://раскулаченные.рф/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260710113226/https://xn--80aapawgqaulx4c1c.xn--p1ai/"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Раскулаченные — Челябинская обл.",
+   "url": "http://bd-chelarhiv.eps74.ru/rask/index.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220123232851/http://bd-chelarhiv.eps74.ru/rask/index.html"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Справочник кадров НКВД 1930-х",
+   "url": "http://nkvd.memo.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "П. З. Фёдоров служил в ОГПУ в 1923–24 гг.",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20161124100818/http://nkvd.memo.ru/"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Картотека агентов КГБ Латвийской ССР",
+   "url": "https://kgb.arhivi.lv/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260520042631/https://kgb.arhivi.lv/"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Репрессированные на Украине",
+   "url": "http://www.reabit.org.ua/nbr/",
+   "covers": "Книги памяти по областям: http://www.reabit.org.ua/books/",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Раскулаченные Днепропетровской обл.",
+   "url": "http://dp.archives.gov.ua/index.php/digitized-documents/kartoteky",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20251101105934/https://dp.archives.gov.ua/index.php/digitized-documents/kartoteky"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Репрессированные Николаевской обл.",
+   "url": "https://repres.uasites.pp.ua/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20221005092107/https://www.repres.uasites.pp.ua/"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Голодомор — книги памяти",
+   "url": "http://www.memory.gov.ua:8080/ua/publication/content/1522.htm",
+   "covers": "База: http://victimsholodomor.org.ua/",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Репрессии",
+   "name": "Жертвы националистического террора",
+   "url": "http://lists.historyfoundation.ru/",
+   "covers": "Западные регионы СССР",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Книга вятских родов",
+   "url": "http://rodnaya-vyatka.ru/kvr",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Реестр симбирских родов",
+   "url": "http://ulgrad.ru/?pageid=119883",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Указатель населённых пунктов в генеалогических документах (vitaboyarsh)",
+   "url": "https://vitaboyarsh.ru/moi_proekty/",
+   "covers": "Ссылка в статье обрезана — раздел «Мои проекты»",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Уральские фамилии",
+   "url": "http://www.okorneva.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "«География фамилий» М. Б. Оленева",
+   "url": "http://www.vgd.ru/STORY/maxim.htm",
+   "covers": "Подмосковье, Тверь, Марий Эл, Орёл, Ульяновск, Смоленск, Коми, Спасск-Рязанский, Архангельск",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ",
+    "АРХ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Антропонимикон старожилов Алтая",
+   "url": "http://ist-master.ru/databases/databases.php",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Беларусь — помощник генеалога",
+   "url": "https://helper.archonline.by/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20260710075211/https://helper.archonline.by/"
+  },
+  {
+   "section": "Реестры родов и фамилий",
+   "name": "Украина — карта фамилий",
+   "url": "https://ridni.org/karta/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Алтай — перепись 1917",
+   "url": "http://www.archiv.ab.ru/catalog/poisk_f233/",
+   "covers": "Закрыто на неопределённый срок",
+   "access": "закрыто",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Астрахань",
+   "url": "https://rodoslovnaya.astrobl.ru",
+   "covers": "Метрики, исповедные, ревизии, брачные обыски",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20251209203251/https://rodoslovnaya.astrobl.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Вологда",
+   "url": "https://gosarchive.gov35.ru/archive",
+   "covers": "Метрики, ревизии, исповедные",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20241007181002/https://gosarchive.gov35.ru/archive"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Екатеринбург — Ural Population Project",
+   "url": "http://urappdata-urgi.urfu.ru/ural-population-project",
+   "covers": "Метрики города",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20200807160430/http://urappdata-urgi.urfu.ru:80/ural-population-project"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Ижевск",
+   "url": "http://gasur.ru/databases/eaur.php",
+   "covers": "Гражданская война, позднесоветские награды",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220519141849/http://www.gasur.ru/databases/eaur.php"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Новосибирск",
+   "url": "http://www.e-archive.nso.ru",
+   "covers": "Немного метрик",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230507205728/http://e-archive.nso.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Оренбург — ревизские сказки",
+   "url": "https://vk.com/albums-163258126",
+   "covers": "Скачать: https://yadi.sk/d/VG_OxLexyVr_4A",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Пермь — «Поколения»",
+   "url": "http://www.pokolenia.permkrai.ru/",
+   "covers": "Метрики, немного сказок",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240131144149/https://pokolenia.permkrai.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "FamilySpace — перепись 1897 (Рязанская губ.)",
+   "url": "http://arc.familyspace.ru/",
+   "covers": "Перепись 1897 Рязанской губ., ревизии, списки избирателей; часть платно",
+   "access": "частично платно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "Перепись 1897 — Михайловский, Скопинский уезды (Блиновы, Гуськовы)",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Поколения Югры",
+   "url": "http://поколения-югры.рф/",
+   "covers": "Метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20250212071744/https://xn----ftbemigpebhu6knbm.xn--p1ai/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Уфа — перепись 1917",
+   "url": "https://basharchive.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "Сказки: http://www.gasrb.ru/barchd134.html, http://www.edoclib.gasrb.ru/",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220316185748/https://basharchive.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Беларусь — перепись 1926",
+   "url": "https://vpn1926.blogspot.com",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "ЦГИАК Украины",
+   "url": "https://cdiak.archives.gov.ua/full_fles/",
+   "covers": "Переписи, еврейские метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Винница",
+   "url": "http://davio.gov.ua/page/elektronniy_arhiv",
+   "covers": "Посемейные списки, сказки",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Волынь",
+   "url": "https://volyn.archives.gov.ua/elekt_archives/elekt_spravi/",
+   "covers": "Дела репрессированных, метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250514002442/https://volyn.archives.gov.ua/elekt_archives/elekt_spravi/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Донецк",
+   "url": "https://tsdea.archives.gov.ua/ua/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Житомир",
+   "url": "http://archive.zt.gov.ua/оцифровка-2/",
+   "covers": "Метрики, исповедные, ревизии",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20211020041105/https://archive.zt.gov.ua/%d0%be%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d0%ba%d0%b0-2/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Киев — ревизии и перепись 1897 (официально)",
+   "url": "http://opisi.dako.gov.ua/web/index.php?r=site%2Fcf",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20260112074717/https://opisi.dako.gov.ua/web/index.php?r=site/cf"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Кропивницкий",
+   "url": "http://dakiro.kr-admin.gov.ua/e-m.php",
+   "covers": "Метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Николаев",
+   "url": "http://mk.archives.gov.ua/tsifrovyiarhiv-metrychni-knygy.html",
+   "covers": "Метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Одесса",
+   "url": "http://archive.odessa.gov.ua/el_arh/metrika/",
+   "covers": "Метрики, перепись 1897",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220123231136/https://archive.odessa.gov.ua/el_arh/metrika/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Луганская обл.",
+   "url": "https://lg.archives.gov.ua/pages/fonds-publications.html#tab19",
+   "covers": "Метрики с. Нижняя Покровка",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250514010203/https://lg.archives.gov.ua/pages/fonds-publications.html"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Сумы",
+   "url": "http://daso.sm.gov.ua/",
+   "covers": "ЗАГС, метрики, исповедные, ревизии",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Тернополь",
+   "url": "https://te.archives.gov.ua/index.php/e-archiv",
+   "covers": "Ревизии Кременецкого уезда",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Харьков",
+   "url": "http://archives.kh.gov.ua/?page_id=17964",
+   "covers": "Дворянские и уголовные дела, ревизии, метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260808102912/https://archives.kh.gov.ua/?page_id=17964"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Херсон",
+   "url": "https://kherson.archives.gov.ua/fondy-ta-dovidkovyj-aparat/oczyfrovani-dokumenty/",
+   "covers": "Метрики, ревизии",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20251117184956/https://kherson.archives.gov.ua/fondy-ta-dovidkovyj-aparat/oczyfrovani-dokumenty/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Чернигов",
+   "url": "ftp://37.53.73.122/",
+   "covers": "Метрики, исповедные, ревизии (канал слабый)",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Копии С. Фазульянова из архивов Украины",
+   "url": "https://drive.google.com/drive/folders/1yomomq1xR7yAmYNAWfl4u04zJErYPoY9",
+   "covers": "Винница (дела КГБ Р-6023), Хмельницкий и др.; ответы ЗАГС о наличии источников",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20220610162322/https://drive.google.com/drive/folders/1yomomq1xR7yAmYNAWfl4u04zJErYPoY9"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Копии А. Краковского (укр. Викитека)",
+   "url": "https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2%D0%B8",
+   "covers": "Больше по евреям",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Актюбинск — перепись 1917",
+   "url": "http://myaktobe.kz/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Уральск — метрики",
+   "url": "http://muragat-bko.gov.kz/",
+   "covers": "Ссылка в статье обрезана",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Абхазия — метрики",
+   "url": "http://anyha.org/category/dokumenty/cerkovnye-metricheskie-knigi/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-301",
+   "archive": "http://web.archive.org/web/20230921215613/https://anyha.org/category/dokumenty/cerkovnye-metricheskie-knigi/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Литва — epaveldas",
+   "url": "https://www.epaveldas.lt/home",
+   "covers": "Метрики",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "Межархивная Прибалтика + Петербург",
+   "url": "http://www.earchive-estlatrus.eu",
+   "covers": "Документы архивов Эстонии, Латвии и Петербурга",
+   "access": "бесплатно",
+   "branches": [
+    "ЭСТ",
+    "СПБ"
+   ],
+   "note": "Ревель — Русско-Балтийский завод (Юрчиковы, Блиновы)",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220127230853/http://earchive-estlatrus.eu/"
+  },
+  {
+   "section": "Оцифрованные документы — бесплатно",
+   "name": "РГИА ДВ — публикации",
+   "url": "http://rgiadv.ru/rabota-s-polzovatelyami/publikatsiya",
+   "covers": "Перепись Владивостока 1883, пленные 1905, участники ПМВ, отчёты губернаторов",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Великий Новгород (ГАНО)",
+   "url": "http://gano.altsof.spb.ru/",
+   "covers": "Метрики",
+   "access": "бесплатно, регистрация",
+   "branches": [
+    "НОВ"
+   ],
+   "note": "Метрики Ракушинской и Старорахинской церквей Крестецкого у. (Шутиловичи, Фёдоровы)",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Воронеж (АИС ГАВО)",
+   "url": "http://www.arsvo.ru/vhod-v-ais/",
+   "covers": "Метрики, сказки и др.",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Красноярск",
+   "url": "http://catalog.krasarh.ru:9090/archkrasnoyarsk",
+   "covers": "Сказки, военные документы",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20200727055027/http://catalog.krasarh.ru:9090/archkrasnoyarsk"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Пенза — перепись 1917",
+   "url": "http://arhiv-pnz.ru/page/3244",
+   "covers": "",
+   "access": "бесплатно, регистрация",
+   "branches": [
+    "ПЕН"
+   ],
+   "note": "Ларионовы-Экономовы",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20211210064020/http://arhiv-pnz.ru/page/3244"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Самара (АИС ЦГАСО)",
+   "url": "http://regsamarh.ru/el_zal_all/",
+   "covers": "Метрики, сказки и др.",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Хабаровск",
+   "url": "https://eaishk.ru/Default.aspx?ReturnUrl=%2F",
+   "covers": "Метрики, посемейные, картотека метрических записей; БРЭМ",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260209173348/https://eaishk.ru/Default.aspx?ReturnUrl=%2F"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Ханты-Мансийск — похозяйственные",
+   "url": "http://архивы-югры.рф",
+   "covers": "",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Якутск",
+   "url": "http://91.201.237.48:81/Default.aspx?ReturnUrl=%2f",
+   "covers": "Метрики, исповедные, переписи, сказки, фото",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20210414180446/http://91.201.237.48:81/Default.aspx?ReturnUrl=%2F"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Латвия — Raduraksti",
+   "url": "https://www.raduraksti.arhivi.lv/",
+   "covers": "Метрики, сказки, перепись 1897, домовые книги, паспорта, депортированные",
+   "access": "бесплатно, регистрация",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "Эстония — Saaga",
+   "url": "http://www.ra.ee/dgs/explorer.php",
+   "covers": "Метрики, сказки, поколенные списки; также AIS: http://ais.ra.ee/",
+   "access": "бесплатно (часть платно)",
+   "branches": [
+    "ЭСТ"
+   ],
+   "note": "Ревель: Юрчиковы, судоремонтный завод",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "FamilySearch — коллекции",
+   "url": "https://familysearch.org/search/collection/list",
+   "covers": "Метрики, ревизии, исповедные архивов России (Карелия, Крым, Татарстан, Астрахань, Нижний, Псков, Самара, Тверь, Тобольск, Томск, Тула, Удмуртия, Ульяновск) и Украины; из России — через VPN",
+   "access": "бесплатно, регистрация, VPN",
+   "branches": [
+    "ТУЛ",
+    "все"
+   ],
+   "note": "Каталог: https://familysearch.org/catalog/search. Тульские ревизии и метрики — Юрчиковы/Экономовы",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20260831101441/https://www.familysearch.org/search/collection/list/"
+  },
+  {
+   "section": "Оцифрованные документы — с регистрацией",
+   "name": "admiral21 — копии по Украине и СНГ",
+   "url": "https://forum.vgd.ru/2678/83609/",
+   "covers": "Облако: https://drive.google.com/drive/folders/1DAu9eDlTRe0nnGEUmgmtGgwL8Rnv-zBM",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Кострома — читальный зал",
+   "url": "http://chitalnyj-zal.kosarchive.ru",
+   "covers": "Метрики",
+   "access": "платно",
+   "branches": [],
+   "note": "",
+   "status": "http-428",
+   "archive": "http://web.archive.org/web/20220615020358/https://chitalnyj-zal.kosarchive.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Архивы Санкт-Петербурга — платный доступ",
+   "url": "https://spbarchives.ru/paid_access",
+   "covers": "Метрики (полковые 1863–1918 Ф. 19 Оп. 128; посольские; католические Ф. 2292; лютеранские Ф. 2294), кладбища (Ф. 639, 640, 641, 457), ЗАГС 1918–1924 (Ф. Р-6143), учётные партдокументы (Ф. Р-9087, Р-9088)",
+   "access": "платно, регистрация",
+   "branches": [
+    "СПБ",
+    "ФЁД",
+    "РЯЗ",
+    "ЭСТ"
+   ],
+   "note": "Основной архив проекта. Указатели ЦГИА: https://spbarchives.ru/infres/-/archive/cgia/pointers ; памятка по приходам: https://spbarchives.ru/documents/10157/18923/ . Р-9087/Р-9088 — учётные карточки П. З. Фёдорова (ВКП(б) № 87453)",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Тобольск",
+   "url": "http://archiv.72to.ru/index.php/ga-tobolsk/tobolsk-ob-material",
+   "covers": "",
+   "access": "платно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Тюмень",
+   "url": "http://archiv.72to.ru/index.php/gosudarstvennyjarkhiv-tyumenskoj-oblasti/materialy-arxiva",
+   "covers": "",
+   "access": "платно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Тула — ГАТО",
+   "url": "http://gato.tularegion.ru",
+   "covers": "Метрики, исповедные, ревизии, сельхозперепись 1910; описи — на tulagosarchive.ru",
+   "access": "платно",
+   "branches": [
+    "ТУЛ"
+   ],
+   "note": "Подворные карточки 1910–12 уже использованы для Юрчиковых",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240329014142/https://gato.tularegion.ru/"
+  },
+  {
+   "section": "Оцифрованные документы — платно",
+   "name": "Ярославль",
+   "url": "http://af.yar-archives.ru/",
+   "covers": "Метрики, сказки, перепись 1897",
+   "access": "платно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250725070654/https://af.yar-archives.ru/"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Казань — ЕАИС",
+   "url": "http://eais.tatar.ru/Default.aspx?ReturnUrl=%2F",
+   "covers": "Все описи оцифрованы",
+   "access": "гостевой режим",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260421211418/https://eais.tatar.ru/Default.aspx?ReturnUrl=%2f"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Архивы Ленинградской области",
+   "url": "https://archiveslo.ru/",
+   "covers": "Личный кабинет — заказ копий",
+   "access": "гостевой режим",
+   "branches": [
+    "ФЁД",
+    "СПБ"
+   ],
+   "note": "ЛОГАВ (Выборг): фильтрационные дела репатриантов Ленинградской обл., документы Слуцкого/Павловского района",
+   "status": "ok"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Московская область",
+   "url": "http://arch.mosreg.ru/",
+   "covers": "Часть описей, каталоги, картотека ЗАГС 1918–1928",
+   "access": "гостевой режим",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Ростов-на-Дону",
+   "url": "http://donarch.ru/",
+   "covers": "",
+   "access": "гостевой режим",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260617225459/https://donarch.ru/"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Росархив — читальный зал федеральных архивов",
+   "url": "https://online.archives.ru",
+   "covers": "",
+   "access": "",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260327121004/https://online.archives.ru/"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Севастополь",
+   "url": "https://aisarhiv.sev.gov.ru/",
+   "covers": "",
+   "access": "гостевой режим",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Архивы в гостевом режиме",
+   "name": "Гдовский уезд — метрики в Пскове",
+   "url": "http://inventory.ru/index.php?id=183",
+   "covers": "Церкви, бывшие то в Петербургской, то в Псковской губ.",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Базы по коммунистам",
+   "name": "Воронеж — обмен партбилетов",
+   "url": "http://gaopi.arsvo.ru:8081/Default.aspx?ReturnUrl=%2F",
+   "covers": "",
+   "access": "регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230927021427/http://gaopi.arsvo.ru:8081/Default.aspx?ReturnUrl=%2F"
+  },
+  {
+   "section": "Базы по коммунистам",
+   "name": "Екатеринбург — партперепись 1922",
+   "url": "https://idun.urfu.ru/archive/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240613202517/https://idun.urfu.ru/archive/"
+  },
+  {
+   "section": "Базы по коммунистам",
+   "name": "Пермь — революционеры и номенклатура",
+   "url": "https://www.permgaspi.ru/nsa/bazy-dannyh.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Базы по коммунистам",
+   "name": "Самара — учётные карточки и личные дела",
+   "url": "https://sogaspi.regsamarh.ru/Default.aspx?ReturnUrl=%2F",
+   "covers": "",
+   "access": "регистрация",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260517174043/https://sogaspi.regsamarh.ru/Default.aspx?ReturnUrl=%2F"
+  },
+  {
+   "section": "Польша",
+   "name": "Metryki Genealodzy.pl",
+   "url": "http://metryki.genealodzy.pl/metryki.php",
+   "covers": "Оцифрованные метрики по географии",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Польша",
+   "name": "Szukajwarchiwach",
+   "url": "https://www.szukajwarchiwach.gov.pl/",
+   "covers": "Документы польских архивов (поиск по-польски); сохранность по архивам и ЗАГСам",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Польша",
+   "name": "Люблинское общество генеалогов",
+   "url": "http://regestry.lubgens.eu/news.php",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Польша",
+   "name": "Индексы метрик Волыни",
+   "url": "http://wolynmetryki.pl",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Польша",
+   "name": "Госархивы Польши",
+   "url": "https://www.archiwa.gov.pl/pl/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Рязань — 62info",
+   "url": "https://62info.ru/history/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Кубанская генеалогия",
+   "url": "http://kubangenealogy.ucoz.ru/",
+   "covers": "Также перепись казаков: http://kubgosarhiv.ru/activity/izdaniya/Kazaki",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Переселенцы на Северный Кавказ и Кубань",
+   "url": "http://forum.vgd.ru/post/539/46903/p1350030.htm#pp1350030",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Духовенство Саратовской и Самарской епархий",
+   "url": "http://m.lezhnina.webnode.ru/news/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Астрахань + Дон по церковной периодике",
+   "url": "http://astrakhan.pp.ru/pk_index.php",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Духовенство Области Войска Донского",
+   "url": "http://duhovenstvovd.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260617101325/http://duhovenstvovd.ru/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Донская электронная библиотека",
+   "url": "http://dspl.ru/eLib/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404",
+   "archive": "http://web.archive.org/web/20200927103716/http://www.dspl.ru/eLib/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Псковская электронная библиотека",
+   "url": "http://pskovlib.ru/resources/pskoviana-pdf",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20200716035544/http://pskovlib.ru:80/resources/pskoviana-pdf/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Новгородика (Новгородская обл. библиотека)",
+   "url": "http://www.reglib.natm.ru/newsite/index.php/resursy/novgorodika-v-elektronnom-vide",
+   "covers": "Памятные книжки, краеведение",
+   "access": "бесплатно",
+   "branches": [
+    "НОВ"
+   ],
+   "note": "Крестецкий уезд, Рахинская волость",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220814144137/http://www.reglib.natm.ru/newsite/index.php/resursy/novgorodika-v-elektronnom-vide"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Вятская электронная библиотека",
+   "url": "http://www.herzenlib.ru/vpeb/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Электронная библиотека Карелии",
+   "url": "http://elibrary.karelia.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220707095640/https://elibrary.karelia.ru/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Вологодские памятные книжки",
+   "url": "https://www.booksite.ru/who-is-who/inf.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Старообрядческое Подмосковье",
+   "url": "http://www.genealogykzn.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Самарская губерния",
+   "url": "http://gubernya63.ru/",
+   "covers": "С биографиями героев войн",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Тамбов — краеведение",
+   "url": "http://tambovgrad.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260801220640/https://tambovgrad.ru/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Тамбов — генеалогия",
+   "url": "http://www.tambovdem.ru/",
+   "covers": "Через web.archive.org",
+   "access": "web.archive.org",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20250524135521/http://www.tambovdem.ru/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Тамбовская электронная библиотека",
+   "url": "http://elibrary.tambovlib.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Томская электронная библиотека",
+   "url": "http://elib.tomsk.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Сельхозпереписи архивов Сибири",
+   "url": "http://1901.vorotyntsev.name/",
+   "covers": "Памятка генеалогу: http://archives.vorotyntsev.name",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Двинская земля",
+   "url": "http://www.dvinaland.org",
+   "covers": "Рода Архангельской обл., книги памяти",
+   "access": "бесплатно",
+   "branches": [
+    "АРХ"
+   ],
+   "note": "Пинежское духовенство из GEDCOM",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Аятская слобода",
+   "url": "http://1670.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Уды",
+   "url": "http://udy.land/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Однодворцы Харьковской губ.",
+   "url": "https://www.ukrainianline.info/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Слобожанщина",
+   "url": "http://otkudarodom.ua",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-406",
+   "archive": "http://web.archive.org/web/20240729035738/http://otkudarodom.ua/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Вилейский уезд",
+   "url": "http://vilejski-uezd.by",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "pra.in.ua",
+   "url": "http://pra.in.ua/",
+   "covers": "Волынь (копии метрик), Донбасс (БД по метрикам)",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20171004195055/https://pra.in.ua/"
+  },
+  {
+   "section": "Краеведческие порталы и региональные библиотеки",
+   "name": "Семиреченская область",
+   "url": "https://genealogiya.kz/nashiproekty/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-404"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Амбургер — иностранцы в дореволюционной России",
+   "url": "http://dokumente.ios-regensburg.de/amburger/tabellen/A.htm",
+   "covers": "Поколенные росписи Амбургера есть и в РНБ",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "Вегманы — немецкая фамилия, проверить",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Немцы России (Бессарабия)",
+   "url": "http://odessa3.org/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Немцы Новороссии",
+   "url": "https://chort.square7.ch/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Немцы Волыни",
+   "url": "http://wolhynien.de/register/index.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Немцы Украины в годы ВОВ",
+   "url": "https://tsdea.archives.gov.ua/deutsch/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230606160423/https://tsdea.archives.gov.ua/deutsch/"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Немцы Поволжья — некрополь",
+   "url": "http://wolgadeutsche.ru/nekropol.htm",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Яд Вашем — жертвы Холокоста",
+   "url": "https://yvng.yadvashem.org/index.html?language=ru",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "JewishGen",
+   "url": "http://www.jewishgen.org/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Еврейские корни — форум",
+   "url": "http://forum.j-roots.info",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "RTR Foundation — сохранность источников",
+   "url": "http://www.rtrfoundation.org/archdta.shtml",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Lipes database",
+   "url": "http://lipesdatabase.com",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-406",
+   "archive": "http://web.archive.org/web/20260918180916/https://lipesdatabase.com/"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Indexing Roots",
+   "url": "https://indexingroots.com/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240926180856/https://www.indexingroots.com/"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Еврейские кладбища",
+   "url": "https://toldot.ru/life/cemetery/",
+   "covers": "Также http://www.jekl.ru/",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Еврейские метрики Латвии",
+   "url": "http://usdine.free.fr/thexrigaxvitalxrecords.html",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Караимы",
+   "url": "http://www.karaims.com/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Азовские греки",
+   "url": "http://www.azovgreeks.com/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Национально ориентированные базы",
+   "name": "Мещёрские татары",
+   "url": "http://www.bastanovo.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260304213320/http://bastanovo.ru/"
+  },
+  {
+   "section": "Некрополи",
+   "name": "Помним (Минск)",
+   "url": "https://pomnim.online/",
+   "covers": "Сотни тысяч захоронений с координатами, Минск и район",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260313115135/https://pomnim.online/"
+  },
+  {
+   "section": "Некрополи",
+   "name": "graves.by",
+   "url": "http://www.graves.by/",
+   "covers": "Старые захоронения Беларуси",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Некрополи",
+   "name": "Мицват Эмет",
+   "url": "https://mitzvatemet.com/ru/burials",
+   "covers": "Еврейские захоронения",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "http-403",
+   "archive": "http://web.archive.org/web/20260319053724/https://mitzvatemet.com/ru/burials"
+  },
+  {
+   "section": "Некрополи",
+   "name": "Старые захоронения г. Слуцка (Беларусь)",
+   "url": "https://oldpomnik.wordpress.com/",
+   "covers": "Белорусский Слуцк — НЕ наш Слуцк-Павловск",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "Не путать с Павловском",
+   "status": "ok"
+  },
+  {
+   "section": "Некрополи",
+   "name": "«Кальварыя» А. Соколовской",
+   "url": "http://knihi.com/Ala_Sakalouskaja/Kalvaryja.html",
+   "covers": "Минское католическое кладбище",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Некрополи",
+   "name": "Гістарычныя могілкі Беларусі",
+   "url": "https://vk.com/histmogilki",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "БЕЛ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Некрополи",
+   "name": "Скорбим",
+   "url": "http://skorbim.com",
+   "covers": "Международная система поминовения",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260909135704/http://skorbim.com/"
+  },
+  {
+   "section": "Некрополи",
+   "name": "BillionGraves",
+   "url": "https://ru.billiongraves.com/",
+   "covers": "Фото надгробий с GPS",
+   "access": "бесплатно",
+   "branches": [
+    "все",
+    "ФЁД"
+   ],
+   "note": "Проверить кладбища Дармштадта, Павловска",
+   "status": "ok"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "Национальный архив Австралии",
+   "url": "http://www.naa.gov.au/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "DP-эмиграция после 1945 (IRO)",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260923015412/https://www.naa.gov.au/"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "CEMLA — Аргентина",
+   "url": "https://cemla.com/buscador/",
+   "covers": "Прибывшие в Аргентину",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "DP-эмиграция после 1945",
+   "status": "ok"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "Национальный архив Великобритании",
+   "url": "https://discovery.nationalarchives.gov.uk/",
+   "covers": "Также Genes Reunited: http://www.genesreunited.co.uk/",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "Немецкая база эмигрантов (в США)",
+   "url": "https://www.deutsche-auswandererdatenbank.de/index.php?id=540",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Эмиграция из Германии — если Надежда или Олимпиада остались на Западе",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "БРЭМ — эмигранты в Маньчжурии",
+   "url": "https://gakhk.khabkrai.ru/projects/brem/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230930095546/https://gakhk.khabkrai.ru/projects/brem/"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "Эллис-Айленд — пассажиры",
+   "url": "https://libertyellisfoundation.org/passenger",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Прибывавшие в США до 1957 г.",
+   "status": "ok"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "Франция — русская эмиграция",
+   "url": "http://www.genealogy.tm.fr/geneainfo/cdhv001/patro.htm",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20230208013429/http://www.genealogy.tm.fr/geneainfo/cdhv001/patro.htm"
+  },
+  {
+   "section": "Эмиграция",
+   "name": "FranceArchives — ЗАГС",
+   "url": "https://francearchives.fr/map/b2b076144a3c4392a34b14bb5e364c95",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Генеалогические сети",
+   "name": "MyHeritage",
+   "url": "https://www.myheritage.com/",
+   "covers": "Деревья, базы (в т.ч. Ancestry)",
+   "access": "частично платно",
+   "branches": [
+    "все"
+   ],
+   "note": "Дерево проекта уже там (GEDCOM-импорт)",
+   "status": "ok"
+  },
+  {
+   "section": "Генеалогические сети",
+   "name": "Geni",
+   "url": "https://www.geni.com/",
+   "covers": "Всемирное дерево",
+   "access": "частично платно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Генеалогические сети",
+   "name": "Rodovid",
+   "url": "https://www.rodovid.org/",
+   "covers": "Украинский портал деревьев",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Телефонно-паспортные базы",
+   "name": "nomer-org",
+   "url": "http://nomer-org.website",
+   "covers": "Многие города России, Украина (конец 1990-х); адреса меняются из-за блокировок",
+   "access": "бесплатно, прокси",
+   "branches": [
+    "ФЁД"
+   ],
+   "note": "Поиск Фёдоровых/потомков 1990-х",
+   "status": "ok"
+  },
+  {
+   "section": "Телефонно-паспортные базы",
+   "name": "Жители инфо",
+   "url": "https://gutel.rosfrm.info/",
+   "covers": "Регионы России, Казахстан",
+   "access": "бесплатно, прокси",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Телефонно-паспортные базы",
+   "name": "telkniga",
+   "url": "http://telkniga.com",
+   "covers": "",
+   "access": "бесплатно, прокси",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Карты",
+   "name": "ЭтоМесто",
+   "url": "http://www.etomesto.ru/",
+   "covers": "Старые карты с поиском по названию (только Россия)",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "Шутиловичи (НОВ), деревни РЯЗ/ТУЛ, план Павловска-Слуцка",
+   "status": "ok"
+  },
+  {
+   "section": "Карты",
+   "name": "Retromap",
+   "url": "http://retromap.ru/",
+   "covers": "Без поиска по названию",
+   "access": "бесплатно",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Карты",
+   "name": "Планы генерального межевания",
+   "url": "http://kartolog.ru/2010/04/plany-generalnogomezhevaniya/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "РЯЗ",
+    "ТУЛ",
+    "НОВ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Книги памяти локальных войн (в т.ч. финской)",
+   "url": "http://patriot-izdat.ru:81/memory/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220401205400/http://patriot-izdat.ru:81/memory/"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Книга памяти «Зимняя война»",
+   "url": "http://www.winterwar.karelia.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Герои СССР",
+   "url": "http://www.warheroes.ru/main.asp",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260916035015/https://warheroes.ru/main.asp"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Архив ВДНХ (медали)",
+   "url": "https://arhiv.vdnh.ru/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Боярские списки XVIII века",
+   "url": "http://zaharov.csu.ru/bspisok.pl",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20251115180951/https://zaharov.csu.ru/bspisok.pl"
+  },
+  {
+   "section": "Другие источники",
+   "name": "БД «Персоналия» Петербургского генеалогического портала",
+   "url": "http://petergen.com/spiski.shtml",
+   "covers": "Списки лиц по Петербургу",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Индекс адрес-календарей РГИА",
+   "url": "https://rgia.su/type/sources?#!page:1",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ"
+   ],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20220308105454/https://rgia.su/type/sources"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Genealogy Indexer",
+   "url": "http://genealogyindexer.org/",
+   "covers": "Адрес-календари и справочники всего мира",
+   "access": "бесплатно",
+   "branches": [
+    "СПБ",
+    "все"
+   ],
+   "note": "«Весь Петербург/Ленинград» — адреса П. З. Фёдорова",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Участники Бородинской битвы",
+   "url": "http://www.borodino.ru/spetsialistam/uchastniki-srazheniya/",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Libraria — газеты Украины",
+   "url": "https://libraria.ua/",
+   "covers": "Полнотекстовый поиск",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Реестр наследственных дел",
+   "url": "https://notariat.ru/ru-ru/help/probate-cases/",
+   "covers": "Факт открытия наследственного дела (с 1990-х)",
+   "access": "бесплатно",
+   "branches": [
+    "ФЁД",
+    "все"
+   ],
+   "note": "Если Надежда вернулась и умерла в России после 1990-х",
+   "status": "ok"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Архив РЖД",
+   "url": "http://archive.rzd.ru",
+   "covers": "",
+   "access": "бесплатно",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  },
+  {
+   "section": "Другие источники",
+   "name": "Яндекс.Люди",
+   "url": "http://yandex.ru/people/search",
+   "covers": "Поиск по соцсетям",
+   "access": "",
+   "branches": [],
+   "note": "Сервис закрыт",
+   "status": "http-410",
+   "archive": "http://web.archive.org/web/20150623074651/http://yandex.ru/people/search"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Русское генеалогическое общество (СПб)",
+   "url": "https://petergen.com/rgo.shtml",
+   "covers": "Сахаров И. В., rgo@nlr.ru, info@rgospb.ru; VK: https://vk.com/russian_genealogy",
+   "access": "",
+   "branches": [
+    "СПБ",
+    "ФЁД"
+   ],
+   "note": "Петербург — ближайшее общество для консультаций по Павловску",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Генеалогическое общество Карелии",
+   "url": "http://genokarelia.ru/",
+   "covers": "Кулаковская О. Ю., GenOK2012@inbox.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Енисейская историко-родословная ассоциация",
+   "url": "https://www.kraslib.ru/clubs/46/",
+   "covers": "kray@kraslib.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Забайкальское ИРО",
+   "url": "",
+   "covers": "Гончаренко Р. В., cho_oyu@chita.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "ИРО Воронежа",
+   "url": "http://iro36.ru",
+   "covers": "Кравцов Е. А., iro36@bk.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Красноярское краевое ИРО",
+   "url": "https://www.kraslib.ru/clubs/41/",
+   "covers": "Романова Г. М., abn@kraslib.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Курское ИРО",
+   "url": "http://kurskiro.ru/",
+   "covers": "Карпук Е. С., karpuk-kursk46@mail.ru; также http://rodmurmana.ru/",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Новосибирское ИРО",
+   "url": "https://vk.com/niro1994",
+   "covers": "Гладышев Д. Ю., niro1994@yandex.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240329114207/https://vk.com/niro1994"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Режевское ИРО",
+   "url": "",
+   "covers": "Икрин Н. Г., onit2010@mail.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Рефтинское объединение родоведов",
+   "url": "",
+   "covers": "Сухарев Ю. М., yury.sukharew@yandex.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Саратовское ИРО",
+   "url": "http://r-sargo.ru/",
+   "covers": "Гусева Н. В.",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260615021609/http://r-sargo.ru/"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Северное ИРО (Архангельск)",
+   "url": "https://siro.ucoz.ru/",
+   "covers": "Попова Л. Д., popova@pomorsu.ru",
+   "access": "",
+   "branches": [
+    "АРХ"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Северо-Кавказское генеалогическое общество",
+   "url": "",
+   "covers": "Мусукаев А. И., mazdaha@mail.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Союз возрождения родословных традиций (СВРТ)",
+   "url": "http://www.svrt.ru/",
+   "covers": "Бибиков В. В., svrtinfo@mail.ru",
+   "access": "",
+   "branches": [
+    "все"
+   ],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Тюменское ИРО",
+   "url": "",
+   "covers": "Баикина А. И., archpoisk@mail.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "не проверялось"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Уральское генеалогическое общество",
+   "url": "https://ugo10.ucoz.ru/",
+   "covers": "Калистратова Э. А., ugo20@mail.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Уральское ИРО",
+   "url": "http://uiro.ru",
+   "covers": "Елькин М. Ю., godro@mail.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "ok"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Царицынское генеалогическое общество",
+   "url": "http://www.gen-volga.ru",
+   "covers": "Астафьев Е. В., info@gen-volga.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20260611004901/https://gen-volga.ru/"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Южно-Сибирское ИРО",
+   "url": "https://vk.com/club72636423",
+   "covers": "Нилогов А. С., nilogov1981@yandex.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа",
+   "archive": "http://web.archive.org/web/20240704121330/https://vk.com/club72636423"
+  },
+  {
+   "section": "Историко-родословные общества",
+   "name": "Ярославское ИРО",
+   "url": "http://yar-genealogy.ru/",
+   "covers": "Тагиева И. И., tagieva.irina@bk.ru",
+   "access": "",
+   "branches": [],
+   "note": "",
+   "status": "нет ответа"
+  }
+ ]
+}
